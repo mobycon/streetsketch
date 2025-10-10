@@ -33,7 +33,7 @@ export const LOCALE_LEVELS = {
 } as const
 
 // Define our special 'default' locale
-export const DEFAULT_LOCALE = 'en'
+export const DEFAULT_LOCALE = 'nl'
 
 // Valid locale levels are enforced via types
 export const DEFAULT_LOCALE_LEVEL = LOCALE_LEVELS.LEVEL_4
@@ -56,7 +56,7 @@ export const LOCALES: LocaleDefinition[] = [
     name: 'Amharic',
     value: 'am',
     key: 'i18n.lang.am',
-    level: LOCALE_LEVELS.LEVEL_3
+    level: LOCALE_LEVELS.LEVEL_2
   },
   {
     label: 'لغة عربية',
@@ -70,7 +70,7 @@ export const LOCALES: LocaleDefinition[] = [
     name: 'Catalan',
     value: 'ca',
     key: 'i18n.lang.ca',
-    level: LOCALE_LEVELS.LEVEL_3
+    level: LOCALE_LEVELS.LEVEL_2
   },
   {
     label: 'čeština',
@@ -112,7 +112,7 @@ export const LOCALES: LocaleDefinition[] = [
     name: 'Spanish (Latin America)',
     value: 'es-419',
     key: 'i18n.lang.es-419',
-    level: LOCALE_LEVELS.LEVEL_3
+    level: LOCALE_LEVELS.LEVEL_2
   },
   {
     label: 'Español (España)',
@@ -126,7 +126,7 @@ export const LOCALES: LocaleDefinition[] = [
     name: 'Spanish (Mexico)',
     value: 'es-MX',
     key: 'i18n.lang.es-mx',
-    level: LOCALE_LEVELS.LEVEL_3
+    level: LOCALE_LEVELS.LEVEL_2
   },
   {
     label: 'Suomi',
@@ -179,10 +179,10 @@ export const LOCALES: LocaleDefinition[] = [
   },
   {
     label: 'Nederlands',
-    name: 'Dutch (Netherlands)',
+    name: 'Dutch',
     value: 'nl-NL',
     key: 'i18n.lang.nl-nl',
-    level: LOCALE_LEVELS.LEVEL_2
+    level: LOCALE_LEVELS.LEVEL_3
   },
   {
     label: 'Bokmål',

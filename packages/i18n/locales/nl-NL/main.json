@@ -5,7 +5,7 @@
       "about": "Over Streetsketch…",
       "whatsnew": "",
       "contact": "Contact",
-      "community": "Gemeenschap",
+      "community": "Community",
       "sign-in": "Log in",
       "sign-out": "Log uit",
       "new-street": "Nieuwe straat",
@@ -68,8 +68,8 @@
       "twitter": "Log in met Twitter"
     },
     "new-street": {
-      "default": "",
-      "empty": "",
+      "default": "Nieuwe voorbeeld straat",
+      "empty": "Nieuwe lege straat",
       "copy": "Maak een kopie",
       "template": ""
     }
