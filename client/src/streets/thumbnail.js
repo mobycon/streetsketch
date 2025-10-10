@@ -777,7 +777,7 @@ export function drawStreetThumbnail (
   }
 
   // Watermark
-  if (watermark) {
-    drawWatermark(ctx, dpi, !segmentNamesAndWidths)
-  }
+  // if (watermark) {
+  //   drawWatermark(ctx, dpi, !segmentNamesAndWidths)
+  // }
 }
