@@ -118,7 +118,7 @@ function onEverythingLoaded () {
   initDragTypeSubscriber()
 
   addEventListeners()
-  showConsoleMessage()
+  // showConsoleMessage()
 
   store.dispatch(everythingLoaded())
 
