@@ -27,7 +27,7 @@ function HelpMenu (props: MenuProps): React.ReactElement {
 
   return (
     <Menu {...props}>
-      <MenuItem onClick={() => dispatch(showDialog('ABOUT'))}>
+      {/* <MenuItem onClick={() => dispatch(showDialog('ABOUT'))}>
         <Icon name="info" className="menu-item-icon" />
         <FormattedMessage
           id="menu.item.about"
@@ -57,7 +57,7 @@ function HelpMenu (props: MenuProps): React.ReactElement {
           </MenuItem>
         </>
       )}
-      <MenuSeparator />
+      <MenuSeparator /> */}
       <KeyboardShortcuts />
     </Menu>
   )
