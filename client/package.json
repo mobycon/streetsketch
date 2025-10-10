@@ -10,9 +10,7 @@
   "type": "module",
   "scripts": {
     "build": "parcel build src/main.tsx --dist-dir ../build --public-url /assets",
-    "postbuild": "npm run sentry:sourcemaps",
-    "dev": "parcel watch src/main.tsx --dist-dir ../build --public-url /assets",
-    "sentry:sourcemaps": "sentry-cli sourcemaps inject --org streetmix --project streetmix ../build && sentry-cli sourcemaps upload --org streetmix --project streetmix ../build"
+    "dev": "parcel watch src/main.tsx --dist-dir ../build --public-url /assets"
   },
   "dependencies": {
     "@floating-ui/react": "0.27.16",
