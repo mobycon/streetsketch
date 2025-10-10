@@ -19,3 +19,27 @@
   height: 100%;
   will-change: opacity;
 }
+
+
+.mobycon-plane {
+  animation: MoveUpDown 10s forwards infinite;
+  height: 500px;
+  width: 500px;
+  left: 50vw;
+  background-repeat: no-repeat;
+  position: absolute;
+  background-image: url("../../../../public/images/mobycon-plane.png");
+  background-size: 150px;
+}
+
+@keyframes MoveUpDown {
+
+  0%,
+  100% {
+    bottom: 0px;
+  }
+
+  50% {
+    bottom: 40px;
+  }
+}

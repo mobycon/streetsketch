@@ -321,6 +321,7 @@ function StreetView (): React.ReactElement {
         </section>
       </section>
       <SkyBox scrollPos={scrollPos} />
+      <div className="mobycon-plane"></div>
     </>
   )
 }
