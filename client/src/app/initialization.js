@@ -185,7 +185,7 @@ function onEverythingLoaded () {
       (welcomeDismissed && canDisplayWhatsNew && locale === 'en') ||
       whatsNewFlag
     ) {
-      store.dispatch(showDialog('WHATS_NEW'))
+      // store.dispatch(showDialog('WHATS_NEW'))
       window.localStorage[LSKEY_WHATSNEW_LAST_TIMESTAMP] = whatsNewTimestamp
     }
   }
