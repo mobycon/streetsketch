@@ -242,7 +242,7 @@ function SaveAsImageDialog (): React.ReactElement {
               </Checkbox>
 
               {/* eslint-disable-next-line multiline-ternary -- Formatting conflicts with prettier */}
-              {isSubscriber ? (
+              {/* {isSubscriber ? (
                 <Checkbox
                   onChange={handleChangeOptionWatermark}
                   checked={watermark}
@@ -275,7 +275,7 @@ function SaveAsImageDialog (): React.ReactElement {
                     <Icon name="lock" />
                   </Checkbox>
                 </Tooltip>
-              )}
+              )} */}
             </div>
             <div className="save-as-image-preview">
               {errorMessage === null && (
