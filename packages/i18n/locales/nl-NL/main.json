@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Help",
-      "about": "Over Streetmix…",
+      "about": "Over Streetsketch…",
       "whatsnew": "",
       "contact": "Contact",
       "community": "Gemeenschap",
@@ -14,7 +14,7 @@
       "share": "Deel",
       "store": "Winkel",
       "upgrade": "Upgrade",
-      "streetmix-plus": "Krijg Streetmix+"
+      "streetmix-plus": "Krijg Streetsketch+"
     },
     "help": {
       "guidebook-link": "Handleiding",
@@ -39,19 +39,19 @@
       "save": "Bewaar afbeelding…",
       "save-byline": "Zodat je het kunt opnemen in een rapport, blog, enz. ",
       "messages": {
-        "my-street": "Kijk eens naar mijn straat, {streetName}, op Streetmix!",
-        "my-street-unnamed": "Kijk eens naar mijn straat op Streetmix!",
-        "someone-elses-street": "Kijk eens naar {streetName} van {streetCreator} op Streetmix!",
-        "someone-elses-street-unnamed": "Kijk eens naar deze straat van {streetCreator} op Streetmix!",
-        "anonymous-creator-street": "Kijk eens naar {streetName} op Streetmix!",
-        "anonymous-creator-street-unnamed": "Kijk eens naar deze straat op Streetmix!"
+        "my-street": "Kijk eens naar mijn straat, {streetName}, op Streetsketch!",
+        "my-street-unnamed": "Kijk eens naar mijn straat op Streetsketch!",
+        "someone-elses-street": "Kijk eens naar {streetName} van {streetCreator} op Streetsketch!",
+        "someone-elses-street-unnamed": "Kijk eens naar deze straat van {streetCreator} op Streetsketch!",
+        "anonymous-creator-street": "Kijk eens naar {streetName} op Streetsketch!",
+        "anonymous-creator-street-unnamed": "Kijk eens naar deze straat op Streetsketch!"
       }
     },
     "contact": {
       "forums": "Discussieer op de fora",
-      "email": "Stuur een e-mail naar het Streetmix-team",
+      "email": "Stuur een e-mail naar het Streetsketch-team",
       "github": "Bekijk de broncode op GitHub",
-      "blog": "Bezoek de Streetmix-blog",
+      "blog": "Bezoek de Streetsketch-blog",
       "discord": "Word lid van de Discord-chat",
       "slack": "Word lid van de Slack-chat",
       "newsletter": "Meld je aan voor onze nieuwsbrief"
@@ -91,7 +91,7 @@
       "username": "Gebruikersnaam",
       "username-description": "Je gebruikersnaam is een uniek account-ID. ",
       "display-name": "Weergavenaam",
-      "display-name-description": "Je weergavenaam is hoe je eruitziet voor andere Streetmix-gebruikers.",
+      "display-name-description": "Je weergavenaam is hoe je eruitziet voor andere Streetsketch-gebruikers.",
       "display-name-not-set": "Je hebt nog geen weergavenaam toegevoegd.",
       "display-name-error": "Weergavenaam kan niet worden bewaard",
       "display-name-characters-remaining": "Resterende tekens: {currentNum} (maximum {maxNum})"
@@ -119,10 +119,10 @@
     "remixing": "Remixen…",
     "having-trouble": "",
     "no-street": "Geen straat geselecteerd.",
-    "trouble-loading": "We hebben problemen met het laden van Streetmix.",
-    "slow-connection-1": "Streetmix kan al een tijdje geen verbinding maken met het internet.",
+    "trouble-loading": "We hebben problemen met het laden van Streetsketch.",
+    "slow-connection-1": "Streetsketch kan al een tijdje geen verbinding maken met het internet.",
     "slow-connection-2": "Je kunt deze pagina best herladen en het opnieuw proberen. Let op: mogelijk worden de laatste wijzigingen niet bewaard. Sorry!",
-    "no-connection": "Streetmix ondervindt problemen bij het verbinding maken met het internet. ",
+    "no-connection": "Streetsketch ondervindt problemen bij het verbinding maken met het internet. ",
     "more-info": "Meer info"
   },
   "error": {
@@ -130,7 +130,7 @@
       "home": "Ga na de startpagina",
       "sign-in": "Log opnieuw in",
       "reload": "Herlaad de pagina",
-      "return": "Ga terug naar Streetmix",
+      "return": "Ga terug naar Streetsketch",
       "try-again": "Probeer opnieuw",
       "view-example": "Bekijk een voorbeeldstraat"
     },
@@ -145,7 +145,7 @@
     "reload-sign-out-title": "Je hebt jezelf uitgelogd in een ander venster.",
     "gallery-street-failure-description": "We ondervinden problemen bij het laden van deze straat.",
     "reload-sign-in-title": "Je hebt jezelf ingelogd in een ander venster.",
-    "please-reload": "Herlaad deze pagina om terug te keren naar Streetmix.",
+    "please-reload": "Herlaad deze pagina om terug te keren naar Streetsketch.",
     "survey-finished": "Enquête ingevuld. Proficiat en bedankt!",
     "street-deleted-elsewhere-title": "Deze straat is ergens anders verwijderd.",
     "street-deleted-elsewhere-description": "Deze straat is verwijderd in een andere browser.",
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "Er was een probleem met de authenticatie.",
     "please-try-again": "Probeer het later opnieuw, of laat ons iets weten vie <email_link>e-mail</email_link> of <tweet_link>Twitter</tweet_link>.",
     "please-try-again-contact-us": "Probeer het later opnieuw. Als je dan nog steeds hulp nodig hebt, <a>neem contact met ons op</a>.",
-    "unsupported-browser-title": "Streetmix werkt niet in jouw browser.",
+    "unsupported-browser-title": "Streetsketch werkt niet in jouw browser.",
     "unsupported-browser-description": "Het spijt ons. Je kunt best gebruik maken van <chrome_link>Chrome</chrome_link>, <firefox_link>Firefox</firefox_link>, <edge_link>Microsoft Edge</edge_link> of Safari.",
     "unsupported-browser-internet-explorer": "Gebruik je Internet Explorer? <a>Meer info.</a>",
     "unsupported-browser-contact-us": "Als je meent dat jouw browser ondersteund zou moeten worden, <a>neem dan contact met ons op</a>./",
-    "cannot-create-new-street-on-phone-title": "Streetmix werkt alleen op tablets en dektops.",
+    "cannot-create-new-street-on-phone-title": "Streetsketch werkt alleen op tablets en dektops.",
     "cannot-create-new-street-on-phone-description": "Als je een andere link volgt naar een specifieke straat, kun je die op je telefoon bekijken — maar je kunt nog geen nieuwe straten maken. ",
     "generic-error-title": "Er is iets misgegaan.",
     "generic-error-description": "Het spijt ons — er is iets misgegaan.",
@@ -190,7 +190,7 @@
       "text": "Er is iets onverwachts gebeurd 😢. We hebben de error geregistreerd, maar als je je kunt herinneren wat er precies is gebeurd, <a>vertel het ons dan alsjeblieft</a>. Dit kan ook een tijdelijk probleem zijn, dus probeer het nog een keertje."
     },
     "welcome": {
-      "heading": "Welkom bij Streetmix.",
+      "heading": "Welkom bij Streetsketch.",
       "new": {
         "intro": "Ontwerp, remix en deel de straten van je wijk. Voeg bomen en fietspaden toe, maak de stoep of de weg breder, en ontdek hoe jouw keuzes invloed kunnen hebben op je gemeenschap.",
         "instruction": "Start door enkele segmenten te verplaatsen. ",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Over Streetmix.",
+      "heading": "Over Streetsketch.",
       "description": "Ontwerp, remix en deel je straat. Voeg bomen en fietspaden toe, maak de stoep of de weg breder, en ontdek hoe jouw keuzes invloed kunnen hebben op je gemeenschap.",
       "team-heading": "Team",
       "partners": "Partners",
       "sponsors": "Sponsoren",
-      "sponsored-by": "Streetmix is royaal gesponsord door: ",
+      "sponsored-by": "Streetsketch is royaal gesponsord door: ",
       "donate-link": "Sponsor ons financieel",
       "tos-link": "Gebruiksvoorwaarden",
       "privacy-link": "Privacybeleid",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "Download afbeelding tot 500 % van de oorspronkelijke grootte.",
       "loading": "Laden…",
       "save-button": "Bewaar op je apparaat…",
-      "license": "Deze Streetmix-afbeelding mag overal en voor elk doel opnieuw gebruikt worden, onder de {licenseLink}-licentie. ",
+      "license": "Deze Streetsketch-afbeelding mag overal en voor elk doel opnieuw gebruikt worden, onder de {licenseLink}-licentie. ",
       "error-preview": "Er was een probleem bij het weergeven van een voorbeeldafbeelding.",
       "error-unavailable": "Je kunt geen afbeelding bewaren met deze browser.",
       "error-too-large": "Deze afbeelding is te groot, waardoor we ‘m niet konden maken. Probeer een kleinere afmeting te kiezen.",
@@ -270,10 +270,10 @@
       "geotag-unavailable": "Geocoding-diensten zijn niet bereikbaar op dit moment. Je kunt de kaart bekijken, maar geen wijzigingen aanbrengen aan de locatie van de straat."
     },
     "donate": {
-      "heading": "Streetmix heeft jouw hulp nodig!",
-      "lede": "Streetmix is een project dat door de gemeenschap wordt ondersteund. In tegenstelling tot andere ‘gratis’ diensten op het internet, tonen wij geen advertenties en we maken geen misbruik van je privacy. In plaats daarvan zijn we afhankelijk van jouw ondersteuning om Streetmix te laten bestaan.",
-      "text": "Overweeg alsjeblieft om ons te ondersteunen met een eenmalige of wederkerige bijdrage. Met jouw donatie betalen we onze servers en cloudinfrastructuur, en we ondersteunen andere vzw’s, belangenorganisaties en studenten die onze straten verbeteren. Overige inkomsten zullen worden geinvesteerd om nieuwe functies te ontwikkelen Onze uitgaven zijn volledig transparant, zodat je precies kunt zien hoe jouw bijdragen worden gebruikt door het Streetmix-team.",
-      "button": "Doneer aan Streetmix",
+      "heading": "Streetsketch heeft jouw hulp nodig!",
+      "lede": "Streetsketch is een project dat door de gemeenschap wordt ondersteund. In tegenstelling tot andere ‘gratis’ diensten op het internet, tonen wij geen advertenties en we maken geen misbruik van je privacy. In plaats daarvan zijn we afhankelijk van jouw ondersteuning om Streetsketch te laten bestaan.",
+      "text": "Overweeg alsjeblieft om ons te ondersteunen met een eenmalige of wederkerige bijdrage. Met jouw donatie betalen we onze servers en cloudinfrastructuur, en we ondersteunen andere vzw’s, belangenorganisaties en studenten die onze straten verbeteren. Overige inkomsten zullen worden geinvesteerd om nieuwe functies te ontwikkelen Onze uitgaven zijn volledig transparant, zodat je precies kunt zien hoe jouw bijdragen worden gebruikt door het Streetsketch-team.",
+      "button": "Doneer aan Streetsketch",
       "cancel": "Nee, bedankt"
     },
     "sign-in": {
@@ -298,7 +298,7 @@
       "resend-email": "Stuur e-mail opnieuw"
     },
     "whatsnew": {
-      "heading": "Wat is er nieuw in Streetmix?",
+      "heading": "Wat is er nieuw in Streetsketch?",
       "english-only": "Deze infromatie is alleen beschikbaar in het Engels."
     },
     "newsletter": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Alle segmenten zijn verwijderd.",
     "no-undo": "Niets om te herstellen.",
     "no-redo": "Niets om opnieuw te doen.",
-    "no-save": "Handmatig bewaren niet nodig; Streetmix bewaart je straat automatisch!",
+    "no-save": "Handmatig bewaren niet nodig; Streetsketch bewaart je straat automatisch!",
     "remixing": "Je bewerkt nu een gloednieuwe kopie van de originele straat. De kopie is toegevoegd aan je gallerij.",
     "remixing-sign-in": "Je bewerkt nu een gloednieuwe kopie van de originele straat. Log in om je eigen gallerij met straten aan te maken.",
     "reloaded": ""
@@ -462,7 +462,7 @@
       "sub": "",
       "sub-edit": "",
       "user": "",
-      "action": "Krijg Streetmix+"
+      "action": "Krijg Streetsketch+"
     },
     "prompt": {
       "text": "",
