@@ -127,7 +127,7 @@ function MenuBar ({ onMenuDropdownClick }: MenuBarProps): React.ReactElement {
               id="menubar-contact"
               onClick={handleClick('contact')}
             />
-            {!isSubscriber && <UpgradeButton />}
+            {/* {!isSubscriber && <UpgradeButton />} */}
           </>
         )}
       </ul>
