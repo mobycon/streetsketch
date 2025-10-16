@@ -39,12 +39,12 @@
       "save": "",
       "save-byline": "Upang isama sa isang ulat, blog, atbp.",
       "messages": {
-        "my-street": "Tingnan ang aking kalsada, {streetName}, sa Streetmix!",
+        "my-street": "Tingnan ang aking kalsada, {streetName}, sa Streetsketch!",
         "my-street-unnamed": "",
-        "someone-elses-street": "Tingnan ang {streetName} ni {streetCreator} sa Streetmix!",
-        "someone-elses-street-unnamed": "Tingnan ang kalsadang ito ni {streetCreator} sa Streetmix!",
+        "someone-elses-street": "Tingnan ang {streetName} ni {streetCreator} sa Streetsketch!",
+        "someone-elses-street-unnamed": "Tingnan ang kalsadang ito ni {streetCreator} sa Streetsketch!",
         "anonymous-creator-street": "",
-        "anonymous-creator-street-unnamed": "Tingnan ang kalsadang ito sa Streetmix!"
+        "anonymous-creator-street-unnamed": "Tingnan ang kalsadang ito sa Streetsketch!"
       }
     },
     "contact": {
@@ -270,10 +270,10 @@
       "geotag-unavailable": ""
     },
     "donate": {
-      "heading": "Kailangan ng Streetmix ang iyong tulong!",
+      "heading": "Kailangan ng Streetsketch ang iyong tulong!",
       "lede": "",
       "text": "",
-      "button": "Magbigay sa Streetmix",
+      "button": "Magbigay sa Streetsketch",
       "cancel": "Salamat na lang"
     },
     "sign-in": {

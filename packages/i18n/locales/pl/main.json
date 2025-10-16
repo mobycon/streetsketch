@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Pomoc",
-      "about": "O aplikacji Streetmix",
+      "about": "O aplikacji Streetsketch",
       "whatsnew": "",
       "contact": "Kontakt",
       "community": "Społeczność",
@@ -49,7 +49,7 @@
     },
     "contact": {
       "forums": "Dyskutuj na forum",
-      "email": "Wyślij maila do zespołu Streetmix",
+      "email": "Wyślij maila do zespołu Streetsketch",
       "github": "Obejrzyj kod źródłowy na GitHubie",
       "blog": "Odwiedź blog Streetmiksa",
       "discord": "",
@@ -58,7 +58,7 @@
     },
     "feedback": {
       "prompt": "Napisz do nas:",
-      "message-placeholder": "Co sądzisz o projekcie Streetmix?",
+      "message-placeholder": "Co sądzisz o projekcie Streetsketch?",
       "email-placeholder": "Twój email (opcjonalnie)",
       "send": "Wyślij wiadomość",
       "confirm": "Mamy to. Dzięki!",
@@ -120,9 +120,9 @@
     "having-trouble": "Chwilowe problemy…",
     "no-street": "Nie wybrano żadnej ulicy.",
     "trouble-loading": "Mamy chwilowy problem z załadowaniem Streetmiksa.",
-    "slow-connection-1": "Streetmix nie był w stanie połączyć się z Internetem przez dłuższą chwilę.",
+    "slow-connection-1": "Streetsketch nie był w stanie połączyć się z Internetem przez dłuższą chwilę.",
     "slow-connection-2": "Najlepiej odśwież stronę i spróbuj ponownie. Niestety jest możliwe, że stracisz ostatnie zmiany. Przepraszamy!",
-    "no-connection": "Streetmix nie może się połączyć z Internetem.",
+    "no-connection": "Streetsketch nie może się połączyć z Internetem.",
     "more-info": "Więcej informacji"
   },
   "error": {
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "Wystąpił problem z uwierzytelnianiem. ",
     "please-try-again": "Spróbuj ponownie później lub daj nam znać poprzez <email_link>email</email_link> lub <tweet_link>Twittera</tweet_link>.",
     "please-try-again-contact-us": "",
-    "unsupported-browser-title": "Streetmix nie działa na Twojej przeglądarce.",
+    "unsupported-browser-title": "Streetsketch nie działa na Twojej przeglądarce.",
     "unsupported-browser-description": "Przepraszamy za to. Możesz spróbować na przeglądarce <chrome_link>Chrome</chrome_link>, <firefox_link>Firefox</firefox_link>, <edge_link>Microsoft Edge</edge_link> lub Safari.",
     "unsupported-browser-internet-explorer": "Używasz przeglądarki Internet Explorer? <a>Dowiedz się więcej.</a>",
     "unsupported-browser-contact-us": "",
-    "cannot-create-new-street-on-phone-title": "Streetmix działa tylko na tabletach oraz komputerach.",
+    "cannot-create-new-street-on-phone-title": "Streetsketch działa tylko na tabletach oraz komputerach.",
     "cannot-create-new-street-on-phone-description": "Jeśli został otwarty inny link do określonej ulicy, możesz ją obejrzeć na telefonie, ale nie możesz tworzyć nowych ulic. ",
     "generic-error-title": "Coś poszło nie tak.",
     "generic-error-description": "Przepraszamy, coś poszło nie tak.",
@@ -190,7 +190,7 @@
       "text": "Wydarzyło się coś nieprzewidzianego. Zarejestrowaliśmy błąd, lecz jeśli znasz kroki do jego reprodukcji, <a>napisz nam o tym</a>. Może to być także jednorazowy błąd, dlatego spróbuj jeszcze raz za chwilę. "
     },
     "welcome": {
-      "heading": "Streetmix wita!",
+      "heading": "Streetsketch wita!",
       "new": {
         "intro": "Projektuj, zmieniaj i udostępniaj projekty ulic ze swojego sąsiedztwa. Sadź drzewa, dodawaj ścieżki rowerowe, poszerzaj chodniki lub jezdnie. Zobacz, jak Twoje decyzje wpłyną na lokalną społeczność.",
         "instruction": "",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "O aplikacji Streetmix.",
+      "heading": "O aplikacji Streetsketch.",
       "description": "Projektuj, zmieniaj i udostępniaj projekty ulic. Dodawaj ścieżki rowerowe, poszerzaj chodniki lub jezdnie. Zobacz, jak wszystko to wpłynie na lokalną społeczność.",
       "team-heading": "Zespół projektowy oraz utrzymaniowy",
       "partners": "",
       "sponsors": "",
-      "sponsored-by": "Streetmix jest hojnie wspierany przez:",
+      "sponsored-by": "Streetsketch jest hojnie wspierany przez:",
       "donate-link": "Wesprzyj nas finansowo",
       "tos-link": "Warunki korzystania z usługi",
       "privacy-link": "Polityka prywatności",
@@ -270,10 +270,10 @@
       "geotag-unavailable": ""
     },
     "donate": {
-      "heading": "Streetmix potrzebuje Twojej pomocy!",
-      "lede": "Streetmix jest projektem wspieranym przez społeczność. W odróżnieniu od innych, \"darmowych\" usług w internecie, nie wyświetlamy reklam oraz nie używamy kodu śledzącego, który może nadużywać Twoją prywatność. Liczymy na Twoje wsparcie, by Streetmix mógł funkcjonować.",
-      "text": "Rozważ proszę jednorazowe lub cykliczne wspieranie nas. Twoja darowizna pomoże nam na opłaty serwerowe oraz infrastruktury w chmurze, inne wydatki non-profit, grupy interesariuszy oraz studentów wspierających nasze ulice. Dodatkowo przychód będzie inwestowany w tworzenie dodatkowych funkcji. Nasze wydatki są w pełni transparentne, dlatego możesz sprawdzić, jak Twoja darowizna jest wykorzystywana przez zespół Streetmix.",
-      "button": "Przekaż darowiznę na Streetmix",
+      "heading": "Streetsketch potrzebuje Twojej pomocy!",
+      "lede": "Streetsketch jest projektem wspieranym przez społeczność. W odróżnieniu od innych, \"darmowych\" usług w internecie, nie wyświetlamy reklam oraz nie używamy kodu śledzącego, który może nadużywać Twoją prywatność. Liczymy na Twoje wsparcie, by Streetsketch mógł funkcjonować.",
+      "text": "Rozważ proszę jednorazowe lub cykliczne wspieranie nas. Twoja darowizna pomoże nam na opłaty serwerowe oraz infrastruktury w chmurze, inne wydatki non-profit, grupy interesariuszy oraz studentów wspierających nasze ulice. Dodatkowo przychód będzie inwestowany w tworzenie dodatkowych funkcji. Nasze wydatki są w pełni transparentne, dlatego możesz sprawdzić, jak Twoja darowizna jest wykorzystywana przez zespół Streetsketch.",
+      "button": "Przekaż darowiznę na Streetsketch",
       "cancel": "Nie, dziękuję"
     },
     "sign-in": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Wszystkie segmenty zostały usunięte.",
     "no-undo": "Nie można cofnąć.",
     "no-redo": "Nie ma nic do cofnięcia.",
-    "no-save": "Nie musisz sam zapisywać stanu - Streetmix zrobi to automatycznie za Ciebie!",
+    "no-save": "Nie musisz sam zapisywać stanu - Streetsketch zrobi to automatycznie za Ciebie!",
     "remixing": "Edytowanie nowo utworzonej kopii z oryginalnej ulicy. Duplikat został dodany do Twojej galerii.",
     "remixing-sign-in": "Edytowanie nowo utworzonej kopii z oryginalnej ulicy. Zaloguj się, by rozpocząć tworzenie własnych ulic.",
     "reloaded": "Twoja ulica została załadowana ponownie ponieważ została zmodyfikowana w innym miejscu."

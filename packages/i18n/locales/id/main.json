@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Bantuan",
-      "about": "Tentang Streetmix...",
+      "about": "Tentang Streetsketch...",
       "whatsnew": "",
       "contact": "Kontak",
       "community": "Komunitas",
@@ -14,7 +14,7 @@
       "share": "Bagikan",
       "store": "Toko",
       "upgrade": "Tingkatkan",
-      "streetmix-plus": "Dapatkan Streetmix+"
+      "streetmix-plus": "Dapatkan Streetsketch+"
     },
     "help": {
       "guidebook-link": "Buku panduan",
@@ -39,19 +39,19 @@
       "save": "Simpan sebagai gambar...",
       "save-byline": "Untuk dimasukkan dalam laporan, blog, dll.",
       "messages": {
-        "my-street": "Periksa jalan saya, {streetName}, di Streetmix!",
-        "my-street-unnamed": "Periksa jalan saya di Streetmix!",
-        "someone-elses-street": "Periksa {streetName} oleh {streetCreator} di Streetmix!",
-        "someone-elses-street-unnamed": "Periksa jalan ini oleh {streetCreator} di Streetmix!",
-        "anonymous-creator-street": "Periksa {streetName} di Streetmix!",
-        "anonymous-creator-street-unnamed": "Periksa jalan ini di Streetmix!"
+        "my-street": "Periksa jalan saya, {streetName}, di Streetsketch!",
+        "my-street-unnamed": "Periksa jalan saya di Streetsketch!",
+        "someone-elses-street": "Periksa {streetName} oleh {streetCreator} di Streetsketch!",
+        "someone-elses-street-unnamed": "Periksa jalan ini oleh {streetCreator} di Streetsketch!",
+        "anonymous-creator-street": "Periksa {streetName} di Streetsketch!",
+        "anonymous-creator-street-unnamed": "Periksa jalan ini di Streetsketch!"
       }
     },
     "contact": {
       "forums": "Diskusikan di forum",
-      "email": "Kirim surel ke tim Streetmix",
+      "email": "Kirim surel ke tim Streetsketch",
       "github": "Lihat kode sumber di GitHub",
-      "blog": "Kunjungi blog Streetmix",
+      "blog": "Kunjungi blog Streetsketch",
       "discord": "Bergabung dengan obrolan Discord",
       "slack": "Bergabung dengan obrolan Slack",
       "newsletter": "Berlangganan buletin kami"
@@ -119,10 +119,10 @@
     "remixing": "Baur ulang...",
     "having-trouble": "Mengalami masalah...",
     "no-street": "Tidak ada jalan yang dipilih.",
-    "trouble-loading": "Kami mengalami masalah saat memuat Streetmix.",
-    "slow-connection-1": "Streetmix sudah lama tidak dapat terhubung ke internet.",
+    "trouble-loading": "Kami mengalami masalah saat memuat Streetsketch.",
+    "slow-connection-1": "Streetsketch sudah lama tidak dapat terhubung ke internet.",
     "slow-connection-2": "Anda mungkin ingin memuat ulang laman dan mencoba lagi. Harap dicatat bahwa Anda mungkin kehilangan perubahan terbaru ke jalan. Maaf!",
-    "no-connection": "Streetmix mengalami masalah saat menghubungkan ke internet.",
+    "no-connection": "Streetsketch mengalami masalah saat menghubungkan ke internet.",
     "more-info": "Info lebih lanjut"
   },
   "error": {
@@ -130,7 +130,7 @@
       "home": "Pergi ke beranda",
       "sign-in": "Masuk lagi",
       "reload": "Muat ulang laman",
-      "return": "Kembali ke Streetmix",
+      "return": "Kembali ke Streetsketch",
       "try-again": "Coba lagi",
       "view-example": "Lihat contoh jalan"
     },
@@ -145,7 +145,7 @@
     "reload-sign-out-title": "Anda keluar di jendela lain.",
     "gallery-street-failure-description": "Kami mengalami masalah saat memuat jalan ini.",
     "reload-sign-in-title": "Anda masuk di jendela lain.",
-    "please-reload": "Silakan muat ulang laman ini untuk kembali ke Streetmix.",
+    "please-reload": "Silakan muat ulang laman ini untuk kembali ke Streetsketch.",
     "survey-finished": "Survey selesai. Selamat dan terima kasih!",
     "street-deleted-elsewhere-title": "Jalan ini telah dihapus di tempat lain.",
     "street-deleted-elsewhere-description": "Jalan ini telah dihapus di peramban lain.",
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "Ada masalah dengan autentikasi.",
     "please-try-again": "Silakan coba lagi nanti atau beri tahu kami melalui <email_link>email</email_link> atau <tweet_link>Twitter</tweet_link>.",
     "please-try-again-contact-us": "Silakan coba lagi nanti. Jika Anda masih membutuhkan bantuan, silakan <a>hubungi kami</a>.",
-    "unsupported-browser-title": "Streetmix tidak bekerja di peramban Anda.",
+    "unsupported-browser-title": "Streetsketch tidak bekerja di peramban Anda.",
     "unsupported-browser-description": "Maaf tentang itu. Anda mungkin ingin mencoba <chrome_link>Chrome</chrome_link>, <firefox_link>Firefox</firefox_link>, <edge_link>Microsoft Edge</edge_link>, atau Safari.",
     "unsupported-browser-internet-explorer": "Apakah Anda menggunakan Internet Explorer? <a>Cari tahu lebih lanjut.</a>",
     "unsupported-browser-contact-us": "Jika menurut Anda peramban Anda harus didukung, silakan <a>hubungi kami</a>.",
-    "cannot-create-new-street-on-phone-title": "Streetmix hanya berfungsi di tablet dan desktop.",
+    "cannot-create-new-street-on-phone-title": "Streetsketch hanya berfungsi di tablet dan desktop.",
     "cannot-create-new-street-on-phone-description": "Jika Anda mengikuti tautan lain ke jalan tertentu, Anda dapat melihatnya di ponsel Anda - tetapi Anda belum dapat membuat jalan baru.",
     "generic-error-title": "Ada yang tidak beres.",
     "generic-error-description": "Maaf – ada yang tidak beres.",
@@ -190,7 +190,7 @@
       "text": "Sesuatu yang tidak terduga terjadi 😢. Kami telah mencatat kesalahannya, tetapi jika Anda dapat mengingat apa yang terjadi dalam perjalanan ke sini, <a>tolong beri tahu kami tentang hal itu</a>. Ini juga bisa jadi merupakan masalah sementara, jadi silakan coba sekali lagi."
     },
     "welcome": {
-      "heading": "Selamat datang di Streetmix.",
+      "heading": "Selamat datang di Streetsketch.",
       "new": {
         "intro": "Desain, baur ulang, dan bagikan jalan lingkungan Anda. Tambahkan pohon atau jalur sepeda, trotoar yang lebar atau jalur lalu lintas, pelajari bagaimana keputusan Anda dapat memengaruhi komunitas Anda.",
         "instruction": "Mulailah dengan memindahkan beberapa ruas.",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Tentang Streetmix.",
+      "heading": "Tentang Streetsketch.",
       "description": "Desain, baur ulang, dan bagikan jalan Anda. Tambahkan jalur sepeda, trotoar yang lebar, atau jalur lalu lintas, pelajari bagaimana semua ini dapat memengaruhi komunitas Anda.",
       "team-heading": "Tim proyek dan pengelola",
       "partners": "Partner",
       "sponsors": "Sponsor",
-      "sponsored-by": "Streetmix dengan murah hati disponsori oleh:",
+      "sponsored-by": "Streetsketch dengan murah hati disponsori oleh:",
       "donate-link": "Dukung kami secara finansial",
       "tos-link": "Ketentuan layanan",
       "privacy-link": "Kebijakan privasi",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "Unduh gambar hingga 500% dari ukuran asli.",
       "loading": "Memuat...",
       "save-button": "Simpan ke komputer Anda...",
-      "license": "Gambar yang dibuat Streetmix ini dapat digunakan kembali di mana saja, untuk tujuan apa pun, di bawah lisensi {licenseLink}.",
+      "license": "Gambar yang dibuat Streetsketch ini dapat digunakan kembali di mana saja, untuk tujuan apa pun, di bawah lisensi {licenseLink}.",
       "error-preview": "Terjadi kesalahan saat menampilkan gambar pratinjau.",
       "error-unavailable": "Menyimpan ke gambar tidak tersedia di peramban ini.",
       "error-too-large": "Gambar ini terlalu besar dan kami tidak dapat membuatnya. Silakan coba ukuran khusus yang lebih kecil.",
@@ -270,10 +270,10 @@
       "geotag-unavailable": "Layanan geocoding saat ini tidak tersedia. Anda dapat melihat peta, tetapi Anda tidak akan dapat mengubah lokasi jalan ini."
     },
     "donate": {
-      "heading": "Streetmix membutuhkan bantuan Anda!",
-      "lede": "Streetmix adalah proyek yang didukung komunitas. Tidak seperti layanan \"gratis\" lainnya di Internet, kami tidak menampilkan iklan atau menyuntikkan pelacak yang menyalahgunakan privasi Anda. Sebagai gantinya, kami bergantung pada dukungan Anda untuk menjaga Streetmix tetap aktif dan berjalan.",
-      "text": "Mohon pertimbangkan untuk mendukung kami dengan kontribusi satu kali atau berulang. Donasi Anda akan membayar server dan infrastruktur awan kami, mendukung nirlaba lainnya, kelompok advokasi, dan siswa yang bekerja untuk memperbaiki jalan kami. Pendapatan tambahan akan diinvestasikan ke dalam pengembangan lebih lanjut dari fitur-fitur baru. Pengeluaran kami benar-benar transparan, sehingga Anda dapat melihat dengan tepat bagaimana kontribusi Anda digunakan oleh tim Streetmix.",
-      "button": "Donasi ke Streetmix",
+      "heading": "Streetsketch membutuhkan bantuan Anda!",
+      "lede": "Streetsketch adalah proyek yang didukung komunitas. Tidak seperti layanan \"gratis\" lainnya di Internet, kami tidak menampilkan iklan atau menyuntikkan pelacak yang menyalahgunakan privasi Anda. Sebagai gantinya, kami bergantung pada dukungan Anda untuk menjaga Streetsketch tetap aktif dan berjalan.",
+      "text": "Mohon pertimbangkan untuk mendukung kami dengan kontribusi satu kali atau berulang. Donasi Anda akan membayar server dan infrastruktur awan kami, mendukung nirlaba lainnya, kelompok advokasi, dan siswa yang bekerja untuk memperbaiki jalan kami. Pendapatan tambahan akan diinvestasikan ke dalam pengembangan lebih lanjut dari fitur-fitur baru. Pengeluaran kami benar-benar transparan, sehingga Anda dapat melihat dengan tepat bagaimana kontribusi Anda digunakan oleh tim Streetsketch.",
+      "button": "Donasi ke Streetsketch",
       "cancel": "Tidak terima kasih"
     },
     "sign-in": {
@@ -298,7 +298,7 @@
       "resend-email": "Kirim ulang surel"
     },
     "whatsnew": {
-      "heading": "Apa yang baru di Streetmix?",
+      "heading": "Apa yang baru di Streetsketch?",
       "english-only": "Informasi ini hanya disediakan dalam bahasa Inggris."
     },
     "newsletter": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Semua ruas telah dihapus.",
     "no-undo": "Tidak ada yang bisa dibatalkan.",
     "no-redo": "Tidak ada yang perlu diulang.",
-    "no-save": "Tidak perlu menyimpan dengan tangan; Streetmix secara otomatis menyimpan jalan Anda!",
+    "no-save": "Tidak perlu menyimpan dengan tangan; Streetsketch secara otomatis menyimpan jalan Anda!",
     "remixing": "Sekarang mengedit duplikat yang baru dibuat dari jalan asli. Duplikasi telah dimasukkan ke dalam galeri Anda.",
     "remixing-sign-in": "Sekarang mengedit duplikat yang baru dibuat dari jalan asli. Masuk untuk memulai galeri jalanan Anda sendiri.",
     "reloaded": "Jalan Anda dimuat ulang dari server saat dimodifikasi di tempat lain."
@@ -433,7 +433,7 @@
     "byline": "oleh {user}",
     "roles": {
       "admin": "Admin",
-      "subscriber": "Anggota Streetmix+"
+      "subscriber": "Anggota Streetsketch+"
     }
   },
   "export": {
@@ -459,19 +459,19 @@
     "locked": {
       "label": "Terkunci",
       "soon": "Segera hadir!",
-      "sub": "Tingkatkan ke Streetmix+ untuk menggunakan!",
-      "sub-edit": "Tingkatkan ke Streetmix+ untuk mengedit",
+      "sub": "Tingkatkan ke Streetsketch+ untuk menggunakan!",
+      "sub-edit": "Tingkatkan ke Streetsketch+ untuk mengedit",
       "user": "Masuk untuk menggunakan!",
-      "action": "Dapatkan Streetmix+"
+      "action": "Dapatkan Streetsketch+"
     },
     "prompt": {
-      "text": "Fitur ini hanya tersedia untuk pengguna Streetmix+.",
+      "text": "Fitur ini hanya tersedia untuk pengguna Streetsketch+.",
       "action": "Tingkatkan untuk membuka kunci"
     },
     "web-monetization": {
       "thanks": "Terima kasih atas dukungan Anda!",
-      "not-signed-in": "Peramban Anda mengirimkan pembayaran Monetisasi Web. Masuk sekarang untuk mengakses manfaat Streetmix+ Anda!",
-      "signed-in": "Langganan Monetisasi Web Anda memberi Anda akses penuh ke manfaat Streetmix+.",
+      "not-signed-in": "Peramban Anda mengirimkan pembayaran Monetisasi Web. Masuk sekarang untuk mengakses manfaat Streetsketch+ Anda!",
+      "signed-in": "Langganan Monetisasi Web Anda memberi Anda akses penuh ke manfaat Streetsketch+.",
       "learn-more": "Pelajari lebih lanjut"
     }
   },
@@ -495,7 +495,7 @@
     "about-header": "Kami ingin memahami bagaimana perasaan orang-orang tentang jalanan",
     "about-article": {
       "paragraph-1": "Banyak jalan dirancang oleh insinyur sipil, tetapi kami percaya bahwa desain harus mencakup sudut pandang semua orang. Dalam kemitraan dengan <a>New Urban Mobility Alliance</a> (NUMO), kami sedang melakukan survei satu pertanyaan ini untuk melakukan hal itu.",
-      "paragraph-2": "Kami akan menganalisis tanggapan Anda sehingga kami dapat menyimpulkan karakteristik jalan mana yang akan mendorong perasaan mana. Di masa depan, kami berencana untuk memasukkan kembali wawasan ini ke dalam rekomendasi desain untuk pengguna Streetmix.",
+      "paragraph-2": "Kami akan menganalisis tanggapan Anda sehingga kami dapat menyimpulkan karakteristik jalan mana yang akan mendorong perasaan mana. Di masa depan, kami berencana untuk memasukkan kembali wawasan ini ke dalam rekomendasi desain untuk pengguna Streetsketch.",
       "paragraph-3": "Anda hanya dapat memilih sekali per jalan, tetapi Anda dapat mendorong orang lain untuk memberikan suara mereka dengan membagikan jalan Anda atau jalan acak dengan tautan <a>https://streetmix.net/survey/</a>."
     },
     "done": {

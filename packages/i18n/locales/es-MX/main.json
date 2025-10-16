@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Ayuda",
-      "about": "Acerca de Streetmix…",
+      "about": "Acerca de Streetsketch…",
       "whatsnew": "",
       "contact": "Contactar",
       "community": "Comunidad",
@@ -14,7 +14,7 @@
       "share": "Compartir",
       "store": "Tienda",
       "upgrade": "Subir cuenta",
-      "streetmix-plus": "Consigue Streetmix+"
+      "streetmix-plus": "Consigue Streetsketch+"
     },
     "help": {
       "guidebook-link": "Guía",
@@ -39,26 +39,26 @@
       "save": "Guardar como imagen…",
       "save-byline": "Para incluir en un reporte, blog, etc.",
       "messages": {
-        "my-street": "¡Mira mi calle, {streetName}, en Streetmix!",
-        "my-street-unnamed": "¡Mira mi calle en Streetmix!",
-        "someone-elses-street": "¡Mira {streetName} por {streetCreator} en Streetmix!",
-        "someone-elses-street-unnamed": "¡Mira esta calle por {streetCreator} en Streetmix!",
-        "anonymous-creator-street": "¡Mira {streetName} en Streetmix!",
-        "anonymous-creator-street-unnamed": "¡Mira esta calle en Streetmix!"
+        "my-street": "¡Mira mi calle, {streetName}, en Streetsketch!",
+        "my-street-unnamed": "¡Mira mi calle en Streetsketch!",
+        "someone-elses-street": "¡Mira {streetName} por {streetCreator} en Streetsketch!",
+        "someone-elses-street-unnamed": "¡Mira esta calle por {streetCreator} en Streetsketch!",
+        "anonymous-creator-street": "¡Mira {streetName} en Streetsketch!",
+        "anonymous-creator-street-unnamed": "¡Mira esta calle en Streetsketch!"
       }
     },
     "contact": {
       "forums": "Discutir en los foros",
-      "email": "Enviar un correo electrónico al equipo de Streetmix",
+      "email": "Enviar un correo electrónico al equipo de Streetsketch",
       "github": "Ver el código fuente en GitHub",
-      "blog": "Visitar el blog de Streetmix",
+      "blog": "Visitar el blog de Streetsketch",
       "discord": "Unirte al chat de Discord",
       "slack": "Unirte al chat de Slack",
       "newsletter": "Suscribirte a nuestro boletín electrónico"
     },
     "feedback": {
       "prompt": "Enviarnos un mensaje:",
-      "message-placeholder": "¿Qué opinas de Streetmix?",
+      "message-placeholder": "¿Qué opinas de Streetsketch?",
       "email-placeholder": "Tu email (opcional)",
       "send": "Mandar un mensaje",
       "confirm": "Lo recibimos. ¡Gracias!",
@@ -119,10 +119,10 @@
     "remixing": "Remezclando…",
     "having-trouble": "Experimentando problemas…",
     "no-street": "Ninguna calle seleccionada.",
-    "trouble-loading": "Estamos teniendo problemas cargando Streetmix.",
-    "slow-connection-1": "Streetmix no se ha podido conectar a Internet desde hace un rato.",
+    "trouble-loading": "Estamos teniendo problemas cargando Streetsketch.",
+    "slow-connection-1": "Streetsketch no se ha podido conectar a Internet desde hace un rato.",
     "slow-connection-2": "Tal vez quieras recargar la página e intentar de nuevo. Por favor toma en cuenta que podrías perder los últimos cambios a la calle. ¡Lo sentimos!",
-    "no-connection": "Streetmix esta teniendo problemas para conectarse a Internet.",
+    "no-connection": "Streetsketch esta teniendo problemas para conectarse a Internet.",
     "more-info": "Más información"
   },
   "error": {
@@ -130,7 +130,7 @@
       "home": "Ir a la página principal",
       "sign-in": "Ingresar de nuevo",
       "reload": "Recarga la página",
-      "return": "Regresar a Streetmix",
+      "return": "Regresar a Streetsketch",
       "try-again": "Intenta de nuevo",
       "view-example": "Ver una calle ejemplo"
     },
@@ -145,7 +145,7 @@
     "reload-sign-out-title": "Has finalizado la sesión en otra ventana.",
     "gallery-street-failure-description": "Estamos teniendo problemas subiendo esta calle.",
     "reload-sign-in-title": "Has iniciado una sesión en otra ventana.",
-    "please-reload": "Por favor vuelve a cargar esta página para regresar a Streetmix.",
+    "please-reload": "Por favor vuelve a cargar esta página para regresar a Streetsketch.",
     "survey-finished": "La encuesta es completa. ¡Felicitaciones y gracias!",
     "street-deleted-elsewhere-title": "Esta calle se ha borrado en otro lugar.",
     "street-deleted-elsewhere-description": "Esta calle se ha borrado en otro navegador.",
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "Hubo un problema con la autenticación.",
     "please-try-again": "Por favor, intenta de nuevo más tarde o cuéntanos via <email_link>correo electrónico</email_link> o <tweet_link>Twitter</tweet_link>.",
     "please-try-again-contact-us": "Por favor inténtalo de nuevo más tarde. Si aún necesitas ayuda, por favor <a>contáctanos</a>.",
-    "unsupported-browser-title": "Streetmix no funciona en su navegador.",
+    "unsupported-browser-title": "Streetsketch no funciona en su navegador.",
     "unsupported-browser-description": "Desculpe. Tal vez debes probar <chrome_link>Chrome</chrome_link>, <firefox_link>Firefox</firefox_link>, <edge_link>Microsoft Edge</edge_link>, o Safari.",
     "unsupported-browser-internet-explorer": "¿Estás usando Internet Explorer? <a>Descubre más.</a>",
     "unsupported-browser-contact-us": "Si piensas que tu navegador debería ser soportado, por favor <a>contáctanos</a>.",
-    "cannot-create-new-street-on-phone-title": "Streetmix solamente funciona en tabletas y computadoras de escritorio.",
+    "cannot-create-new-street-on-phone-title": "Streetsketch solamente funciona en tabletas y computadoras de escritorio.",
     "cannot-create-new-street-on-phone-description": "Si sigues un enlace a una calle específica, se la podrá ver en un celular – pero todavía no se puede crear calles nuevas.",
     "generic-error-title": "Algo salió mal.",
     "generic-error-description": "Desculpe – algo salió mal.",
@@ -190,7 +190,7 @@
       "text": "Algo inesperado sucedió 😢. Hemos notado el error, pero si puedes recordar lo que sucedió antes de este error, <a>cuéntanos</a>. Es posible que éste sea un problema temporal, así que por favor intenta una vez más."
     },
     "welcome": {
-      "heading": "Te damos la bienvenida a Streetmix.",
+      "heading": "Te damos la bienvenida a Streetsketch.",
       "new": {
         "intro": "Diseña, re-mezcla, y comparte la calle de tu vecindario; añade arboles o carriles ciclistas; ensancha las banquetas o carriles vehiculares y aprende como tus decisiones impactan a tu comunidad.",
         "instruction": "Empieza moviendo algunos segmentos de aquí para allá.",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Acerca de Streetmix.",
+      "heading": "Acerca de Streetsketch.",
       "description": "Diseña, re-mezcla, y comparte tu calle. Adhiere líneas de bici, has las banquetas o lineas de trafico más anchas, aprende como todo esto puede impactar a tu comunidad.",
       "team-heading": "Equipo del proyecto",
       "partners": "Socios",
       "sponsors": "Patrocinadores",
-      "sponsored-by": "Streetmix está apoyado generosamente por:",
+      "sponsored-by": "Streetsketch está apoyado generosamente por:",
       "donate-link": "Apoyarnos con fondos",
       "tos-link": "Condiciones (en)",
       "privacy-link": "Privacidad (en)",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "Descarga una imagen hasta 500% del tamaño original.",
       "loading": "Cargando…",
       "save-button": "Guardar a tu computadora…",
-      "license": "Esta imagen-creada-por-Streetmix puede ser reusada en cualquier otra parte, por culaquier otro uso, bajo la licencia {licenseLink}.",
+      "license": "Esta imagen-creada-por-Streetsketch puede ser reusada en cualquier otra parte, por culaquier otro uso, bajo la licencia {licenseLink}.",
       "error-preview": "Hubo un error al visualizar una imagen de vista previa.",
       "error-unavailable": "No se puede guardar imagen en este navegador de internet.",
       "error-too-large": "Esta imagen es demasiado grande y no podemos crearla. Por favor intenta un tamaño personalizado más pequeño.",
@@ -270,9 +270,9 @@
       "geotag-unavailable": "Los servicios de geocodificación no están disponibles en este momento. Se puede ver el mapa, pero no se podrá cambiar la ubicación de esta calle."
     },
     "donate": {
-      "heading": "¡Streetmix necesita tu ayuda!",
-      "lede": "Streetmix es un proyecto apoyado por la comunidad. A diferencia de otros servicios \"gratuitos\" en Internet, no mostramos anuncios ni registradores que abusen tu privacidad. En cambio, dependemos de tu apoyo para que Streetmix siga funcionando.",
-      "text": "Por favor, considera apoyarnos con una contribución única o recurrente. Tu donación pagará nuestros servidores y la infraestructura en la nube, ayudando así a otras organizaciones sin fines de lucro, grupos de defensa, y estudiantes que trabajan para mejorar nuestras calles. Los ingresos adicionales se invertirán en el desarrollo de nuevas herramientas. Nuestros gastos son completamente transparentes así que puedes ver exactamente cómo tus contribuciones son utilizadas por el equipo de Streetmix.",
+      "heading": "¡Streetsketch necesita tu ayuda!",
+      "lede": "Streetsketch es un proyecto apoyado por la comunidad. A diferencia de otros servicios \"gratuitos\" en Internet, no mostramos anuncios ni registradores que abusen tu privacidad. En cambio, dependemos de tu apoyo para que Streetsketch siga funcionando.",
+      "text": "Por favor, considera apoyarnos con una contribución única o recurrente. Tu donación pagará nuestros servidores y la infraestructura en la nube, ayudando así a otras organizaciones sin fines de lucro, grupos de defensa, y estudiantes que trabajan para mejorar nuestras calles. Los ingresos adicionales se invertirán en el desarrollo de nuevas herramientas. Nuestros gastos son completamente transparentes así que puedes ver exactamente cómo tus contribuciones son utilizadas por el equipo de Streetsketch.",
       "button": "Donar a Streemix",
       "cancel": "No, gracias"
     },
@@ -298,7 +298,7 @@
       "resend-email": "Reenviar correo electrónico"
     },
     "whatsnew": {
-      "heading": "¿Qué es nuevo en Streetmix?",
+      "heading": "¿Qué es nuevo en Streetsketch?",
       "english-only": "Esta información se provee solamente en el inglés."
     },
     "newsletter": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Se han eliminado todos los segmentos.",
     "no-undo": "No hay nada para deshacer.",
     "no-redo": "No hay nada para rehacer.",
-    "no-save": "No es necesario guardar manualmente; ¡Streetmix guarda tu calle automáticamente!",
+    "no-save": "No es necesario guardar manualmente; ¡Streetsketch guarda tu calle automáticamente!",
     "remixing": "Ahora está editando un duplicado de la calle original. El duplicado se ha colocado en su lista de calles.",
     "remixing-sign-in": "Ahora está editando un duplicado de la calle original. Ingresa para comenzar su propia lista de calles.",
     "reloaded": "Su calle fue recargada porque fue modificada en otro lugar."
@@ -433,7 +433,7 @@
     "byline": "por {user}",
     "roles": {
       "admin": "Administrativo",
-      "subscriber": "Miembro de Streetmix+"
+      "subscriber": "Miembro de Streetsketch+"
     }
   },
   "export": {
@@ -459,19 +459,19 @@
     "locked": {
       "label": "Bloqueado",
       "soon": "¡Disponible muy pronto!",
-      "sub": "¡Actualizar a Streetmix+ para usar!",
-      "sub-edit": "Obtén Streetmix+ para editar.",
+      "sub": "¡Actualizar a Streetsketch+ para usar!",
+      "sub-edit": "Obtén Streetsketch+ para editar.",
       "user": "¡Ingrésate para usar!",
-      "action": "Consigue Streetmix+"
+      "action": "Consigue Streetsketch+"
     },
     "prompt": {
-      "text": "Esta característica sólo es disponible a usuarios de Streetmix+.",
+      "text": "Esta característica sólo es disponible a usuarios de Streetsketch+.",
       "action": "Actualizar para acceder"
     },
     "web-monetization": {
       "thanks": "¡Gracias por tu apoyo!",
-      "not-signed-in": "Su navegador está enviando pagos de Web Monetization. ¡Inicie sesión para acceder a sus ventajas Streetmix+!",
-      "signed-in": "Su suscripción Web Monetization le da acceso completo a las características de Streetmix+.",
+      "not-signed-in": "Su navegador está enviando pagos de Web Monetization. ¡Inicie sesión para acceder a sus ventajas Streetsketch+!",
+      "signed-in": "Su suscripción Web Monetization le da acceso completo a las características de Streetsketch+.",
       "learn-more": "Aprender más"
     }
   },
@@ -495,7 +495,7 @@
     "about-header": "Queremos entender cómo se siente la gente sobre calles",
     "about-article": {
       "paragraph-1": "Muchas calles son diseñadas por ingenieros civiles, pero creemos que el diseño debe incluir la perspectiva de todos. Junto con <a>New Urban Mobility Alliance</a> (NUMO), creamos esta encuestita de una pregunta para hacer precisamente eso.",
-      "paragraph-2": "Analizaremos las respuestas para poder inferir cuáles características de la calle inducen cuáles sentimientos. En el futuro, queremos incorporar estos resultados para recomendar diseños para los usuarios de Streetmix.",
+      "paragraph-2": "Analizaremos las respuestas para poder inferir cuáles características de la calle inducen cuáles sentimientos. En el futuro, queremos incorporar estos resultados para recomendar diseños para los usuarios de Streetsketch.",
       "paragraph-3": "Solo se puede votar una vez por cada calle, pero es posible decirles a otros que voten también. Comparte tus calles o una calle al azar con el enlace <a>https://streetmix.net/survey/</a>."
     },
     "done": {

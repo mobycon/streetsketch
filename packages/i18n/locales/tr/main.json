@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Destek",
-      "about": "Streetmix Hakkında...",
+      "about": "Streetsketch Hakkında...",
       "whatsnew": "",
       "contact": "İletişim",
       "community": "Topluluk",
@@ -39,26 +39,26 @@
       "save": "Görseli farklı kaydet...",
       "save-byline": "Rapor, blog vs. de referans vermek için",
       "messages": {
-        "my-street": "Streetmix'de {streetName}ismindeki sokağıma bak! ",
-        "my-street-unnamed": "Streetmix'deki sokağıma bak!",
-        "someone-elses-street": "Streetmix'de{streetCreator} tarafından yapılmış {streetName}adlı sokağa bak!   ",
-        "someone-elses-street-unnamed": "Streetmix'de {streetCreator} tarafından yapılmış sokağa bak!  ",
-        "anonymous-creator-street": "Streetmix'deki {streetName}adlı sokağa bak! ",
-        "anonymous-creator-street-unnamed": "Streetmix'teki bu sokağa bakın!"
+        "my-street": "Streetsketch'de {streetName}ismindeki sokağıma bak! ",
+        "my-street-unnamed": "Streetsketch'deki sokağıma bak!",
+        "someone-elses-street": "Streetsketch'de{streetCreator} tarafından yapılmış {streetName}adlı sokağa bak!   ",
+        "someone-elses-street-unnamed": "Streetsketch'de {streetCreator} tarafından yapılmış sokağa bak!  ",
+        "anonymous-creator-street": "Streetsketch'deki {streetName}adlı sokağa bak! ",
+        "anonymous-creator-street-unnamed": "Streetsketch'teki bu sokağa bakın!"
       }
     },
     "contact": {
       "forums": "Forumlarda tartış",
-      "email": "Streetmix ekibine email gönder",
+      "email": "Streetsketch ekibine email gönder",
       "github": "Kaynak kodunu GitHub üzerinde gör",
-      "blog": "Streetmix blogunu ziyaret et",
+      "blog": "Streetsketch blogunu ziyaret et",
       "discord": "Discord grubuna katıl",
       "slack": "Slack grubuna katıl",
       "newsletter": "Haber bültenimize kayıt ol"
     },
     "feedback": {
       "prompt": "Bize bir mesaj gönder:",
-      "message-placeholder": "Streetmix hakkında ne düşünüyorsun?",
+      "message-placeholder": "Streetsketch hakkında ne düşünüyorsun?",
       "email-placeholder": "E-postanız (isteğe bağlı)",
       "send": "Mesaj gönder",
       "confirm": "Anladık. Teşekkürler!",
@@ -119,10 +119,10 @@
     "remixing": "Remixliyor...",
     "having-trouble": "Bir sorun oluştu...",
     "no-street": "Herhangi bir sokak seçilmedi.",
-    "trouble-loading": "Streetmix'i yüklemekte zorluk çekiyoruz.",
-    "slow-connection-1": "Streetmix İnternet'e bağlanmakta bir süredir sorun yaşıyor.",
+    "trouble-loading": "Streetsketch'i yüklemekte zorluk çekiyoruz.",
+    "slow-connection-1": "Streetsketch İnternet'e bağlanmakta bir süredir sorun yaşıyor.",
     "slow-connection-2": "Sayfayı yeniden yüklemek ve tekrar denemek isteyebilirsiniz. Lütfen sokaktaki en son değişikliği kaybedebileceğinizi unutmayın. Üzgünüz!",
-    "no-connection": "Streetmix İnternet'e bağlanmada sorun yaşıyor.",
+    "no-connection": "Streetsketch İnternet'e bağlanmada sorun yaşıyor.",
     "more-info": "Daha fazla bilgi"
   },
   "error": {
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "Doğrulamada bir problem oluştu.",
     "please-try-again": "Lütfen daha sonra tekrar deneyin veya <email_link>e-posta</email_link> veya <tweet_link>Twitter</tweet_link> üzerinden bizimle iletişime geçin.",
     "please-try-again-contact-us": "",
-    "unsupported-browser-title": "Streetmix kullandığınız tarayıcı da çalışmıyor.",
+    "unsupported-browser-title": "Streetsketch kullandığınız tarayıcı da çalışmıyor.",
     "unsupported-browser-description": "Üzgünüz.<chrome_link>Chrome</chrome_link>,<firefox_link>Firefox</firefox_link>,<edge_link>Microsoft Edge</edge_link> veya Safari kullanmayı deneyin.",
     "unsupported-browser-internet-explorer": "Internet Explorer'da mısınız? <a>Daha fazla keşfet.</a>",
     "unsupported-browser-contact-us": "",
-    "cannot-create-new-street-on-phone-title": "Streetmix sadece masaüstü bilgisayarlarda ve tabletlerde çalışır.",
+    "cannot-create-new-street-on-phone-title": "Streetsketch sadece masaüstü bilgisayarlarda ve tabletlerde çalışır.",
     "cannot-create-new-street-on-phone-description": "Belirli bir sokağa giden başka bir bağlantıyı takip ederseniz, telefonunuzda görüntüleyebilirsiniz - fakat yeni sokaklar oluşturamazsınız",
     "generic-error-title": "Yolunda gitmeyen bir şeyler var.",
     "generic-error-description": "Üzgünüz - yolunda gitmeyen bir şeyler var.",
@@ -190,7 +190,7 @@
       "text": "Beklenmeyen bir şey oldu😢. Bu hatayı kayıt aldına aldık ancak ne olduğunu hatırlıyorsanız <a>lütfen bize iletin</a>. Geçici bir problem olma ihtimaline karşı lütfen bir kez daha deneyin."
     },
     "welcome": {
-      "heading": "Streetmix'e hoşgeldiniz.",
+      "heading": "Streetsketch'e hoşgeldiniz.",
       "new": {
         "intro": "Mahallenizdeki sokağı ekranınızda tasarlayın, remixleyin ve paylaşın! Ağaçlar ve bisikletler eklyin, kaldırımları veya şeritleri genişletin ve aldığınız kararların mahallede nasıl bir etki yarattığını öğrenin.",
         "instruction": "Bazı kısımların yerini değiştirerek başlayın.",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Streetmix hakkında",
+      "heading": "Streetsketch hakkında",
       "description": "Sokağınızı tasarlayın, yeniden düzenleyin ve paylaşın. Bisiklet yolları ekleyin, kaldırımları ya da trafik şeritlerini genişletin, tüm bunların topluluğunuzu nasıl etkileyebileceğini öğrenin.",
       "team-heading": "Proje ekibi ve bakıcılar",
       "partners": "Ortaklar",
       "sponsors": "Sponsorlar",
-      "sponsored-by": "Streetmix'i destekleyenler:",
+      "sponsored-by": "Streetsketch'i destekleyenler:",
       "donate-link": "Finansal olarak bizi destekle",
       "tos-link": "Kullanım şartları",
       "privacy-link": "Gizlilik politikası",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "",
       "loading": "Yükleniyor...",
       "save-button": "Bilgisayarınıza kaydedin...",
-      "license": "Streetmix tarafından üretilmiş bu imaj {licenseLink} lisansı altında her yerde ver her amaçla tekrar kullanılabilir.",
+      "license": "Streetsketch tarafından üretilmiş bu imaj {licenseLink} lisansı altında her yerde ver her amaçla tekrar kullanılabilir.",
       "error-preview": "Önizleme görseli gösterilirken bir hata oluştu.",
       "error-unavailable": "Resim olarak kaydetmek bu tarayıcıda mümkün değildir.",
       "error-too-large": "",
@@ -270,10 +270,10 @@
       "geotag-unavailable": "Geokodlama servisleri şu an kullanılamamaktadır. Haritayı görebilirsiniz ancak sokağınızın konumunu değiştiremezsiniz."
     },
     "donate": {
-      "heading": "Streetmix'in yardımına ihtiyacı var!",
-      "lede": "Streetmix bir topluluk projesidir. İnternet'teki diğer bedava servislerin aksine reklam veya dijital gizliliğinize saygı göstermeyen takip ediciler içermemektedir. Bunun yerine Streetmix'i canlı tutmak için sizin desteğinize ihtiyacımız var.",
-      "text": "Lütfen bize bir defaya mahsus veya tekrarlayan bir şekilde bağış yaparak destekleyin. Sizin bağışlarınızla server ve bulut altyapısı masraflarımızı karşılamakla birlikte sokakları iyileştirmek için çalışan diğer kurumlarada destek oluyoruz. Arta kalan gelirleri siteye yeni işlevler eklemeye ayıracağız. Bütün giderlerimiz şeffaftır ve desteğinizin Streetmix ekibi tarafından nasıl kullanıldığını inceleyebilirsiniz.",
-      "button": "Streetmix'e bağışta bulun",
+      "heading": "Streetsketch'in yardımına ihtiyacı var!",
+      "lede": "Streetsketch bir topluluk projesidir. İnternet'teki diğer bedava servislerin aksine reklam veya dijital gizliliğinize saygı göstermeyen takip ediciler içermemektedir. Bunun yerine Streetsketch'i canlı tutmak için sizin desteğinize ihtiyacımız var.",
+      "text": "Lütfen bize bir defaya mahsus veya tekrarlayan bir şekilde bağış yaparak destekleyin. Sizin bağışlarınızla server ve bulut altyapısı masraflarımızı karşılamakla birlikte sokakları iyileştirmek için çalışan diğer kurumlarada destek oluyoruz. Arta kalan gelirleri siteye yeni işlevler eklemeye ayıracağız. Bütün giderlerimiz şeffaftır ve desteğinizin Streetsketch ekibi tarafından nasıl kullanıldığını inceleyebilirsiniz.",
+      "button": "Streetsketch'e bağışta bulun",
       "cancel": "Hayır, teşekkürler"
     },
     "sign-in": {
@@ -298,7 +298,7 @@
       "resend-email": "E-postayı yeniden gönder"
     },
     "whatsnew": {
-      "heading": "Streetmix'te yeni neler var?",
+      "heading": "Streetsketch'te yeni neler var?",
       "english-only": ""
     },
     "newsletter": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Bütün kısımlar kaldırıldı.",
     "no-undo": "Geri alınacak bir şey yok.",
     "no-redo": "Tekrar yapılacak bir şey yok.",
-    "no-save": "Sizin kaydetmenize gerek yok; Streetmix otomatik olarak sokağınızı kaydetmektedir!",
+    "no-save": "Sizin kaydetmenize gerek yok; Streetsketch otomatik olarak sokağınızı kaydetmektedir!",
     "remixing": "Şu anda orjinal sokağınızın kopyası üzerinde çalışmaktasınız. Bu kopya galerinize eklenmiştir.",
     "remixing-sign-in": "Şu anda orjinal sokağınızın kopyası üzerinde çalışmaktasınız. Kendi galerinizi oluşturmak için oturum açın.",
     "reloaded": "Sokağınız başka bir yerde değiştirildiği için server üzerinden yeniden yüklenmiştir."
@@ -495,7 +495,7 @@
     "about-header": "İnsanların sokaklar hakkında ne hissettiğini anlamak istiyoruz",
     "about-article": {
       "paragraph-1": "Bir çok sokak mühendisler tarafından tasarlanmaktadır ancak biz tasarımda herkesin görüşünün alınması gerektiğine inanıyoruz.<a>New Urban Mobility Alliance</a>(NUMO), olarak tek sorulu bir anketle bunu yapmaya çalışıyoruz.",
-      "paragraph-2": "Cevaplarınızı inceleyerek hangi sokak özelliklerinin hangi hisleri tetiklediğini anlamaya çalışacağız. İleride, bu fikirleri tasarım tavsiyesi olarak Streetmix kullanıcıları ile paylaşmayı planlıyoruz.",
+      "paragraph-2": "Cevaplarınızı inceleyerek hangi sokak özelliklerinin hangi hisleri tetiklediğini anlamaya çalışacağız. İleride, bu fikirleri tasarım tavsiyesi olarak Streetsketch kullanıcıları ile paylaşmayı planlıyoruz.",
       "paragraph-3": "Bir sokak için sadece bir kere oy verebilirsiniz ancak başkalarının oy vermesi için kendi veya herhangi bir sokağı <a>https://streetmix.net/survey/</a> bağlantısı aracılığıyla paylaşabilirsiniz."
     },
     "done": {

@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "幫助",
-      "about": "關於Streetmix…",
+      "about": "關於Streetsketch…",
       "whatsnew": "",
       "contact": "聯繫我們",
       "community": "社群",
@@ -14,7 +14,7 @@
       "share": "分享",
       "store": "商店",
       "upgrade": "版本升級",
-      "streetmix-plus": "取得Streetmix+"
+      "streetmix-plus": "取得Streetsketch+"
     },
     "help": {
       "guidebook-link": "指南",
@@ -39,26 +39,26 @@
       "save": "存為圖片",
       "save-byline": "將連接內嵌在報告，博客等等",
       "messages": {
-        "my-street": "快來看看我在Streetmix上創建的街道, {streetName}！",
-        "my-street-unnamed": "快來看看我在Streetmix上創建的街道！",
-        "someone-elses-street": "快來看看這條由 {streetCreator}在Streetmix上創建的 {streetName}吧！",
-        "someone-elses-street-unnamed": "快來看看 {streetCreator} 在Streetmix上創建的街道吧！",
-        "anonymous-creator-street": "快來看看這條在Streetmix上創建的 {streetName} 吧！",
-        "anonymous-creator-street-unnamed": "快來看看這條在Streetmix上創建的街道吧！"
+        "my-street": "快來看看我在Streetsketch上創建的街道, {streetName}！",
+        "my-street-unnamed": "快來看看我在Streetsketch上創建的街道！",
+        "someone-elses-street": "快來看看這條由 {streetCreator}在Streetsketch上創建的 {streetName}吧！",
+        "someone-elses-street-unnamed": "快來看看 {streetCreator} 在Streetsketch上創建的街道吧！",
+        "anonymous-creator-street": "快來看看這條在Streetsketch上創建的 {streetName} 吧！",
+        "anonymous-creator-street-unnamed": "快來看看這條在Streetsketch上創建的街道吧！"
       }
     },
     "contact": {
-      "forums": "在Streetmix論壇上討論",
-      "email": "給Streetmix團隊發郵件",
+      "forums": "在Streetsketch論壇上討論",
+      "email": "給Streetsketch團隊發郵件",
       "github": "在GitHub上查看源代碼",
-      "blog": "訪問Streetmix的博客",
+      "blog": "訪問Streetsketch的博客",
       "discord": "加入Discord聊天群",
       "slack": "加入Slack頻道",
       "newsletter": "訂閱電子報"
     },
     "feedback": {
       "prompt": "給我們發信息",
-      "message-placeholder": "你覺得Streetmix怎麼樣？",
+      "message-placeholder": "你覺得Streetsketch怎麼樣？",
       "email-placeholder": "你的電郵（選填）",
       "send": "發送消息",
       "confirm": "我們已收到你的信息，謝謝！",
@@ -91,7 +91,7 @@
       "username": "使用者名稱",
       "username-description": "用戶名為帳戶唯一ID",
       "display-name": "顯示名稱",
-      "display-name-description": "顯示名稱為展示給其他Streetmix使用者的名稱",
+      "display-name-description": "顯示名稱為展示給其他Streetsketch使用者的名稱",
       "display-name-not-set": "顯示名稱尚未設定",
       "display-name-error": "無法儲存顯示名稱",
       "display-name-characters-remaining": "剩餘字元: {currentNum}(最多{maxNum}字元)"
@@ -119,10 +119,10 @@
     "remixing": "合成中…",
     "having-trouble": "遇到小故障…",
     "no-street": "未選中街道",
-    "trouble-loading": "我們在加載Streetmix中遇到一些問題。",
-    "slow-connection-1": "Streetmix現在暫時無法連接到網路。",
+    "trouble-loading": "我們在加載Streetsketch中遇到一些問題。",
+    "slow-connection-1": "Streetsketch現在暫時無法連接到網路。",
     "slow-connection-2": "你可以刷新網頁再嘗試一次。很抱歉！你最後一次作出的更改有可能并未能被保存。",
-    "no-connection": "Streetmix無法連接到網路。",
+    "no-connection": "Streetsketch無法連接到網路。",
     "more-info": "更多信息"
   },
   "error": {
@@ -130,7 +130,7 @@
       "home": "回到主頁",
       "sign-in": "再一次登入",
       "reload": "刷新網頁",
-      "return": "回到Streetmix",
+      "return": "回到Streetsketch",
       "try-again": "再試一次",
       "view-example": "查看範例街道"
     },
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "在確認你身份的過程中出了點小問題。",
     "please-try-again": "請稍後再試，或通過<email_link>電郵</email_link>或<tweet_link>推特</tweet_link>聯繫我們。",
     "please-try-again-contact-us": "",
-    "unsupported-browser-title": "Streetmix無法在這個瀏覽器上運行。",
+    "unsupported-browser-title": "Streetsketch無法在這個瀏覽器上運行。",
     "unsupported-browser-description": "很抱歉！ 你可以嘗試使用<chrome_link>Chrome</chrome_link>, <firefox_link>Firefox</firefox_link>, <edge_link>Microsoft Edge</edge_link>, 或Safari.",
     "unsupported-browser-internet-explorer": "你在使用Internet Explorer嗎? <a>了解更多</a>",
     "unsupported-browser-contact-us": "",
-    "cannot-create-new-street-on-phone-title": "Streetmix只能在平板電腦和台式電腦上運行。",
+    "cannot-create-new-street-on-phone-title": "Streetsketch只能在平板電腦和台式電腦上運行。",
     "cannot-create-new-street-on-phone-description": "如果你通過另外一條鏈接來查看某條街道，你可以在手機上查看—但你暫時不能在上面創建街道",
     "generic-error-title": "出現問題",
     "generic-error-description": "很抱歉，出現了一點技術故障。",
@@ -190,7 +190,7 @@
       "text": "發生了一個意外的故障 😢。我們已經將這個問題存檔, 但如果你記得發生故障時的操作 <a>請告訴我們</a>。 這也有可能只是一個小問題，你可以再試一次。"
     },
     "welcome": {
-      "heading": "歡迎來到 Streetmix",
+      "heading": "歡迎來到 Streetsketch",
       "new": {
         "intro": "重新設計并分享你所在社區的街道。在添加行道樹，自行車道，拓寬人行道或車道的過程中，探索和發現這些改變對社區的影響。",
         "instruction": "",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "關於Streetmix。",
+      "heading": "關於Streetsketch。",
       "description": "設計，重組和分享你創建的街道。在添加自行車道，拓寬人行道或車道的過程中，發現這些改變對社區的影響。",
       "team-heading": "項目團隊及技術維護員",
       "partners": "",
       "sponsors": "",
-      "sponsored-by": "Streetmix 由以下組織及公司慷慨贊助：",
+      "sponsored-by": "Streetsketch 由以下組織及公司慷慨贊助：",
       "donate-link": "贊助我們",
       "tos-link": "",
       "privacy-link": "",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "",
       "loading": "加載中…",
       "save-button": "保存到電腦上…",
-      "license": "根據{licenseLink}條例，這張由Streetmix生成的圖片可以被用於任何位置，任何目的。",
+      "license": "根據{licenseLink}條例，這張由Streetsketch生成的圖片可以被用於任何位置，任何目的。",
       "error-preview": "我們在顯示預覽圖時出現了故障。",
       "error-unavailable": "此瀏覽器不支持收藏圖片功能。",
       "error-too-large": "",
@@ -270,10 +270,10 @@
       "geotag-unavailable": ""
     },
     "donate": {
-      "heading": "Streetmix 需要你的幫助！",
-      "lede": "Streetmix是一個由大眾支持的項目。和網絡上其他“免費”的服務不同，我們沒有插入任何廣告或跟蹤器來盜取你的隱私。因此我們全靠你的支持和資助來運營Streetmix。",
-      "text": "希望大家能夠以單次或連續的方式資助我們。你的捐助會幫助我們支付服務器和雲端的儲存設施，支持其他非營利和倡導團體，以及致力於改善社區和街道環境的學生群體。餘下的收入會被用於研發新的功能。我們的支出完全公開透明，這樣你可以知道你的捐款具體是怎麼樣被Streetmix團隊使用的。",
-      "button": "捐助Streetmix",
+      "heading": "Streetsketch 需要你的幫助！",
+      "lede": "Streetsketch是一個由大眾支持的項目。和網絡上其他“免費”的服務不同，我們沒有插入任何廣告或跟蹤器來盜取你的隱私。因此我們全靠你的支持和資助來運營Streetsketch。",
+      "text": "希望大家能夠以單次或連續的方式資助我們。你的捐助會幫助我們支付服務器和雲端的儲存設施，支持其他非營利和倡導團體，以及致力於改善社區和街道環境的學生群體。餘下的收入會被用於研發新的功能。我們的支出完全公開透明，這樣你可以知道你的捐款具體是怎麼樣被Streetsketch團隊使用的。",
+      "button": "捐助Streetsketch",
       "cancel": "不用了，多謝"
     },
     "sign-in": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "所有部分已被移除。",
     "no-undo": "沒有內容可供撤銷",
     "no-redo": "沒有內容可供重做",
-    "no-save": "無須手動儲存，Streetmix會自動幫你儲存你的街道！",
+    "no-save": "無須手動儲存，Streetsketch會自動幫你儲存你的街道！",
     "remixing": "現在你可以編輯這個剛剛出爐的街道副本了。它已被放入你的街道圖集中。",
     "remixing-sign-in": "現在你可以編輯這個剛剛出爐的街道副本了。請登入來創建一個屬於你的街道圖集。",
     "reloaded": "由於這個街道已在別處被更改，你的街道已被重新加載。"
@@ -462,7 +462,7 @@
       "sub": "",
       "sub-edit": "",
       "user": "",
-      "action": "取得Streetmix+"
+      "action": "取得Streetsketch+"
     },
     "prompt": {
       "text": "",

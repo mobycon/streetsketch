@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Ohje",
-      "about": "Tietoja Streetmixistä…",
+      "about": "Tietoja Streetsketchistä…",
       "whatsnew": "Uudet ominaisuudet",
       "contact": "Ota yhteyttä",
       "community": "Yhteisö",
@@ -14,7 +14,7 @@
       "share": "Jaa",
       "store": "Kauppa",
       "upgrade": "Päivitä",
-      "streetmix-plus": "Hanki Streetmix+"
+      "streetmix-plus": "Hanki Streetsketch+"
     },
     "help": {
       "guidebook-link": "Käyttöopas",
@@ -39,26 +39,26 @@
       "save": "Tallenna kuvana…",
       "save-byline": "Blogiin, liitteeksi raporttiin...",
       "messages": {
-        "my-street": "Tutustu tekemääni katuun {streetName} Streetmix-palvelussa!",
-        "my-street-unnamed": "Tutustu tekemääni katuun Streetmix-palvelussa!",
-        "someone-elses-street": "Tutustu käyttäjän {streetCreator} tekemään katuun {streetName} Streetmix-palvelussa!",
-        "someone-elses-street-unnamed": "Tutustu tähän käyttäjän {streetCreator} tekemään katuun Streetmix-palvelussa!",
-        "anonymous-creator-street": "Tutustu katuun {streetName} Streetmix-palvelussa!",
-        "anonymous-creator-street-unnamed": "Tutustu tähän katuun Streetmixissä!"
+        "my-street": "Tutustu tekemääni katuun {streetName} Streetsketch-palvelussa!",
+        "my-street-unnamed": "Tutustu tekemääni katuun Streetsketch-palvelussa!",
+        "someone-elses-street": "Tutustu käyttäjän {streetCreator} tekemään katuun {streetName} Streetsketch-palvelussa!",
+        "someone-elses-street-unnamed": "Tutustu tähän käyttäjän {streetCreator} tekemään katuun Streetsketch-palvelussa!",
+        "anonymous-creator-street": "Tutustu katuun {streetName} Streetsketch-palvelussa!",
+        "anonymous-creator-street-unnamed": "Tutustu tähän katuun Streetsketchissä!"
       }
     },
     "contact": {
       "forums": "Osallistu keskusteluun",
-      "email": "Lähetä sähköpostia Streetmix-kehittäjille",
+      "email": "Lähetä sähköpostia Streetsketch-kehittäjille",
       "github": "Näytä lähdekoodi GitHub-palvelussa",
-      "blog": "Vieraile Streetmix-blogissa",
+      "blog": "Vieraile Streetsketch-blogissa",
       "discord": "Liity Discord-keskusteluun",
       "slack": "Liity Slack-keskusteluun",
       "newsletter": "Tilaa uutiskirje"
     },
     "feedback": {
       "prompt": "Lähetä meille palautetta:",
-      "message-placeholder": "Mitä mieltä olet Streetmixistä?",
+      "message-placeholder": "Mitä mieltä olet Streetsketchistä?",
       "email-placeholder": "Sähköpostiosoite (vapaaehtoinen)",
       "send": "Lähetä viesti",
       "confirm": "Perille tuli. Kiitos!",
@@ -91,7 +91,7 @@
       "username": "Käyttäjänimi",
       "username-description": "Käyttäjänimi on yksilöllinen ja käyttäjätunnuskohtainen.",
       "display-name": "Näytettävä nimi",
-      "display-name-description": "Näytettävä nimi näkyy muille Streetmixin käyttäjille.",
+      "display-name-description": "Näytettävä nimi näkyy muille Streetsketchin käyttäjille.",
       "display-name-not-set": "Näytettävää nimeä ei ole vielä määritetty.",
       "display-name-error": "Näytettävän nimen määrittäminen epäonnistui.",
       "display-name-characters-remaining": "{currentNum}/{maxNum} merkkiä jäljellä"
@@ -119,10 +119,10 @@
     "remixing": "Muokataan…",
     "having-trouble": "Pulassa ollaan…",
     "no-street": "Katua ei ole valittu.",
-    "trouble-loading": "Streetmixin lataaminen ei nyt onnistu.",
+    "trouble-loading": "Streetsketchin lataaminen ei nyt onnistu.",
     "slow-connection-1": "Internet-yhteyden muodostaminen epäonnistui.",
     "slow-connection-2": "Ongelma voi korjautua sivu päivittämällä, mutta huomaa, että viimeisimmät katuun tehdyt muutokset saatetaan menettää. Pahoittelut!",
-    "no-connection": "Streetmix ei pystynyt muodostamaan Internet-yhteyttä.",
+    "no-connection": "Streetsketch ei pystynyt muodostamaan Internet-yhteyttä.",
     "more-info": "Lisätietoja"
   },
   "error": {
@@ -130,7 +130,7 @@
       "home": "Siirry aloitussivulle",
       "sign-in": "Kirjaudu sisään uudelleen",
       "reload": "Lataa sivu uudelleen",
-      "return": "Takaisin Streetmixiin",
+      "return": "Takaisin Streetsketchiin",
       "try-again": "Yritä uudelleen",
       "view-example": "Näytä esimerkkikatu"
     },
@@ -145,7 +145,7 @@
     "reload-sign-out-title": "Kirjauduit ulos toisessa ikkunassa.",
     "gallery-street-failure-description": "Kadun lataaminen ei onnistu.",
     "reload-sign-in-title": "Kirjauduit sisään toisessa ikkunassa.",
-    "please-reload": "Palaa takaisin Streetmixiin päivittämällä sivu.",
+    "please-reload": "Palaa takaisin Streetsketchiin päivittämällä sivu.",
     "survey-finished": "Kysely on päättynyt. Kiitos avustasi!",
     "street-deleted-elsewhere-title": "Katu on poistettu muualla.",
     "street-deleted-elsewhere-description": "Katu on poistettu toisessa selaimessa.",
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "Tunnistautuminen epäonnistui.",
     "please-try-again": "Yritä myöhemmin uudelleen ja tarvittaessa tee vikailmoitus <email_link>sähköpostitse</email_link> tai <tweet_link>Twitterissä</tweet_link>.",
     "please-try-again-contact-us": "Yritä myöhemmin uudelleen. <a>Ota tarvittaessa yhteyttä</a>.",
-    "unsupported-browser-title": "Streetmix ei toimi tässä selaimessa.",
+    "unsupported-browser-title": "Streetsketch ei toimi tässä selaimessa.",
     "unsupported-browser-description": "Pahoittelut! Suosittelemme kokeilemaan <chrome_link>Chromea</chrome_link>, <firefox_link>Firefoxia</firefox_link>, <edge_link>Microsoft Edgeä</edge_link> tai Safaria.",
     "unsupported-browser-internet-explorer": "Käytätkö Internet Exploreria? <a>Lue lisätietoja.</a>",
     "unsupported-browser-contact-us": "Jos selaimen pitäisi täyttää vähimmäisvaatimukset, <a>ota yhteyttä</a>.",
-    "cannot-create-new-street-on-phone-title": "Streetmix toimii vain tabletilla ja tietokoneella.",
+    "cannot-create-new-street-on-phone-title": "Streetsketch toimii vain tabletilla ja tietokoneella.",
     "cannot-create-new-street-on-phone-description": "Voit tarkastella linkistä avaamasi katua, mutta et voi muokata tai luoda uusia katuja.",
     "generic-error-title": "Jokin meni vikaan.",
     "generic-error-description": "Pahoittelut – jokin meni vikaan.",
@@ -190,7 +190,7 @@
       "text": "Jotakin odottamatonta tapahtui 😢. Virheilmoitus on tallennettu automaattisesti, mutta <a>voit myös kertoa siitä meille</a>. Kokeile hetken kuluttua uudelleen."
     },
     "welcome": {
-      "heading": "Tervetuloa, tämä on Streetmix.",
+      "heading": "Tervetuloa, tämä on Streetsketch.",
       "new": {
         "intro": "Suunnittele, muokkaa ja jaa kotikatusi. Lisää kadullesi kaikkea puista pyöräteihin tai levennä katusi jalkakäytäviä ja ajoratoja. Samalla näet, miten muutokset vaikuttavat liikenteeseen.",
         "instruction": "Aloita muokkaaminen siirtelemällä elementtejä.",
@@ -213,12 +213,12 @@
       "dismiss": "Aloitetaan!"
     },
     "about": {
-      "heading": "Tietoja Streetmixistä.",
+      "heading": "Tietoja Streetsketchistä.",
       "description": "Suunnittele, muokkaa ja jaa kotikatusi. Lisää kadullesi kaikkea puista pyöräteihin tai levennä katusi jalkakäytäviä ja ajoratoja. Samalla näet, miten muutokset vaikuttavat liikenteeseen.",
       "team-heading": "Kehitysryhmä ja ylläpitäjät",
       "partners": "Yhteistyössä",
       "sponsors": "Sponsorit",
-      "sponsored-by": "Streetmixin avokätiset sponsorit:",
+      "sponsored-by": "Streetsketchin avokätiset sponsorit:",
       "donate-link": "Tue meitä taloudellisesti",
       "tos-link": "Käyttöehdot",
       "privacy-link": "Tietosuojakäytäntö",
@@ -245,12 +245,12 @@
       "option-labels": "Elementtien nimet ja leveydet",
       "option-name": "Kadunnimi",
       "option-sky": "Läpinäkyvä taivas",
-      "option-watermark": "Streetmix-logo",
+      "option-watermark": "Streetsketch-logo",
       "option-custom-scale": "Mittakaava",
       "option-custom-scale-description": "Lataa kuvia jopa viisi kertaa suurempina.",
       "loading": "Ladataan…",
       "save-button": "Tallenna tietokoneelle…",
-      "license": "Tätä Streetmixillä luotua kuvaa saa käyttää missä tahansa mihin tahansa tarkoitukseen {licenseLink} -lisenssin ehtojen mukaisesti.",
+      "license": "Tätä Streetsketchillä luotua kuvaa saa käyttää missä tahansa mihin tahansa tarkoitukseen {licenseLink} -lisenssin ehtojen mukaisesti.",
       "error-preview": "Esikatselukuvan näyttäminen epäonnistui.",
       "error-unavailable": "Tallentaminen kuvana ei ole mahdollista tässä selaimessa.",
       "error-too-large": "Kuva on liian suuri, yritä uudelleen pienemmällä kuvalla.",
@@ -271,9 +271,9 @@
     },
     "donate": {
       "heading": "Tarvitsemme apuasi!",
-      "lede": "Streetmix perustuu vapaaehtoisten yhteisön tekemään työhön. Muista \"ilmaisista\" verkkosivustoista poiketen emme näytä mainoksia tai tallenna yksityisyyttäsi rikkovia evästeitä tietokoneellesi. Sen sijaan olemme riippuvaisia käyttäjiemme tuesta Streetmixin kehittämiseen.",
-      "text": "Halutessasi voit tukea meitä kertaluontoisella tai kestolahjoituksella, joita käytetään palvelinkapasiteetin ylläpitämiseen, jotta voittoa tavoittelemattomat tahot voisivat osallistua liikenteen kehittämiseen. Tästä ylijäävän osuuden käytämme uusien ominaisuuksien kehittämiseen. Tilikirjamme ovat täysin julkisia, joten voit tarkistaa, miten Streetmix-kehitysryhmä on käyttänyt juuri sinun lahjoituksesi.",
-      "button": "Lahjoita Streetmixille",
+      "lede": "Streetsketch perustuu vapaaehtoisten yhteisön tekemään työhön. Muista \"ilmaisista\" verkkosivustoista poiketen emme näytä mainoksia tai tallenna yksityisyyttäsi rikkovia evästeitä tietokoneellesi. Sen sijaan olemme riippuvaisia käyttäjiemme tuesta Streetsketchin kehittämiseen.",
+      "text": "Halutessasi voit tukea meitä kertaluontoisella tai kestolahjoituksella, joita käytetään palvelinkapasiteetin ylläpitämiseen, jotta voittoa tavoittelemattomat tahot voisivat osallistua liikenteen kehittämiseen. Tästä ylijäävän osuuden käytämme uusien ominaisuuksien kehittämiseen. Tilikirjamme ovat täysin julkisia, joten voit tarkistaa, miten Streetsketch-kehitysryhmä on käyttänyt juuri sinun lahjoituksesi.",
+      "button": "Lahjoita Streetsketchille",
       "cancel": "Ei kiitos"
     },
     "sign-in": {
@@ -298,7 +298,7 @@
       "resend-email": "Lähetä uudelleen"
     },
     "whatsnew": {
-      "heading": "Streetmixin uudet ominaisuudet",
+      "heading": "Streetsketchin uudet ominaisuudet",
       "english-only": "Sisältö on saatavilla vain englanniksi."
     },
     "newsletter": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Kaikki elementit poistettiin.",
     "no-undo": "Ei toimintohistoriaa.",
     "no-redo": "Ei toimintohistoriaa.",
-    "no-save": "Ei Tallenna-painiketta: Streetmix tallentaa muutokset automaattisesti!",
+    "no-save": "Ei Tallenna-painiketta: Streetsketch tallentaa muutokset automaattisesti!",
     "remixing": "Tämä on uunituore kopio alkuperäisestä kadusta, joka löytyy nyt galleriasta.",
     "remixing-sign-in": "Tämä on uunituore kopio alkuperäisestä kadusta. Kirjaudu sisään, jotta voit tallentaa katuja galleriaan.",
     "reloaded": "Katu ladattiin uudelleen, sillä sitä muokattiin samanaikaisesti jossain muualla."
@@ -433,7 +433,7 @@
     "byline": "käyttäjältä {user}",
     "roles": {
       "admin": "Ylläpitäjä",
-      "subscriber": "Streetmix+-jäsen"
+      "subscriber": "Streetsketch+-jäsen"
     }
   },
   "export": {
@@ -459,19 +459,19 @@
     "locked": {
       "label": "Lukittu",
       "soon": "Tulossa pian",
-      "sub": "Toiminto sisältyy Streetmix+-tilaukseen",
-      "sub-edit": "Muokkaa päivittämällä Streetmix+-jäsenyyteen",
+      "sub": "Toiminto sisältyy Streetsketch+-tilaukseen",
+      "sub-edit": "Muokkaa päivittämällä Streetsketch+-jäsenyyteen",
       "user": "Vaatii sisäänkirjautumisen",
-      "action": "Hanki Streetmix+"
+      "action": "Hanki Streetsketch+"
     },
     "prompt": {
-      "text": "Toiminto on vain Streetmix+-käyttäjille.",
+      "text": "Toiminto on vain Streetsketch+-käyttäjille.",
       "action": "Ota käyttöön tilaamalla"
     },
     "web-monetization": {
       "thanks": "Kiitos tuesta!",
-      "not-signed-in": "Selain suorittaa Web Monetization -maksua. Ota Streetmix+ käyttöön nyt kirjautumalla sisään.",
-      "signed-in": "Web Monetization -tilaus sisältää kaikki Streetmix+-ominaisuudet.",
+      "not-signed-in": "Selain suorittaa Web Monetization -maksua. Ota Streetsketch+ käyttöön nyt kirjautumalla sisään.",
+      "signed-in": "Web Monetization -tilaus sisältää kaikki Streetsketch+-ominaisuudet.",
       "learn-more": "Lue lisää"
     }
   },
@@ -495,7 +495,7 @@
     "about-header": "Haluamme ymmärtää ihmisten mielipiteitä kaduista",
     "about-article": {
       "paragraph-1": "Katuja suunnittelee lähinnä insinöörit, mutta meidän mielestämme suunnittelussa tulisi ottaa huomioon kaikkien ihmisten tarpeet. Selvitämme ihmisten mielipiteitä pikakyselyllä yhteistyössä <a>Uudenlaisen urbaanin liikkuvuuden allianssin</a> (New Urban Mobility Alliance) kanssa.",
-      "paragraph-2": "Keräämme tietoa siitä millaisia tuntemuksia erilaiset kadun ominaisuudet herättävät. Piakkoin suunnittelemme tarjoavan vastausten pohjalta kehitettyjä suunnittelusuosituksia Streetmixin käyttäjille.",
+      "paragraph-2": "Keräämme tietoa siitä millaisia tuntemuksia erilaiset kadun ominaisuudet herättävät. Piakkoin suunnittelemme tarjoavan vastausten pohjalta kehitettyjä suunnittelusuosituksia Streetsketchin käyttäjille.",
       "paragraph-3": "Yhtä katua kohden voi antaa yhden äänen, mutta voit pyytää muita vastaamaan kyselyyn minkä tahansa kadun kohdalla jakamalla linkin <a>https://streetmix.net/survey/</a>."
     },
     "done": {

@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Ajuda",
-      "about": "Sobre Streetmix...",
+      "about": "Sobre Streetsketch...",
       "whatsnew": "",
       "contact": "Contacte",
       "community": "Comunitat",
@@ -39,26 +39,26 @@
       "save": "Deseu com a imatge...",
       "save-byline": "Per a incloure a un informe, bloc, etc.",
       "messages": {
-        "my-street": "Feu una ullada al meu carrer, {streetName}, a Streetmix!",
-        "my-street-unnamed": "Feu una ullada al meu carrer a Streetmix!",
-        "someone-elses-street": "Feu una ullada a {streetName} per {streetCreator} a Streetmix!",
-        "someone-elses-street-unnamed": "Feu una ullada a aquest carrer per {streetCreator} a Streetmix!",
-        "anonymous-creator-street": "Feu una ullada a {streetName} a Streetmix!",
-        "anonymous-creator-street-unnamed": "Feu una ullada a aquest carrer a Streetmix!"
+        "my-street": "Feu una ullada al meu carrer, {streetName}, a Streetsketch!",
+        "my-street-unnamed": "Feu una ullada al meu carrer a Streetsketch!",
+        "someone-elses-street": "Feu una ullada a {streetName} per {streetCreator} a Streetsketch!",
+        "someone-elses-street-unnamed": "Feu una ullada a aquest carrer per {streetCreator} a Streetsketch!",
+        "anonymous-creator-street": "Feu una ullada a {streetName} a Streetsketch!",
+        "anonymous-creator-street-unnamed": "Feu una ullada a aquest carrer a Streetsketch!"
       }
     },
     "contact": {
       "forums": "Discutiu als fòrums",
-      "email": "Envieu un correu a l'equip de Streetmix",
+      "email": "Envieu un correu a l'equip de Streetsketch",
       "github": "Vegeu el codi font a GitHub",
-      "blog": "Visiteu el bloc de Streetmix",
+      "blog": "Visiteu el bloc de Streetsketch",
       "discord": "Entreu al xat de Discord",
       "slack": "Entreu al xat de Slack",
       "newsletter": "Subscriviu-vos al nostre butlletí"
     },
     "feedback": {
       "prompt": "Envieu-nos un missatge",
-      "message-placeholder": "Què en penseu de Streetmix ?",
+      "message-placeholder": "Què en penseu de Streetsketch ?",
       "email-placeholder": "El vostre email (opcional)",
       "send": "Envieu un missatge",
       "confirm": "Ho tenim. Gràcies",
@@ -119,10 +119,10 @@
     "remixing": "Remenant...",
     "having-trouble": "Tenim problemes...",
     "no-street": "No s'ha seleccionat cap carrer.",
-    "trouble-loading": "Tenim problemes carregant Streetmix.",
-    "slow-connection-1": "Streetmix no ha estat capaç de connectar-se a Internet des de fa una estona.",
+    "trouble-loading": "Tenim problemes carregant Streetsketch.",
+    "slow-connection-1": "Streetsketch no ha estat capaç de connectar-se a Internet des de fa una estona.",
     "slow-connection-2": "Podeu refrescar la pàgina i intentar-ho de nou. Podríeu perdre l'últim canvi fet al carrer. Ho sentim!",
-    "no-connection": "Streetmix té problemes amb la connexió a Internet.",
+    "no-connection": "Streetsketch té problemes amb la connexió a Internet.",
     "more-info": "Més informació"
   },
   "error": {
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "Hi ha hagut un problema amb l'autenticació.",
     "please-try-again": "Si us plau, intenteu-ho de nou o feu-nos-ho saber per <email_link>correu</email_link> o <tweet_link>Twitter</tweet_link>",
     "please-try-again-contact-us": "",
-    "unsupported-browser-title": "Streetmix no funciona amb el vostre navegador.",
+    "unsupported-browser-title": "Streetsketch no funciona amb el vostre navegador.",
     "unsupported-browser-description": "Ho sentim. Podeu intentar-ho des de <chrome_link>Chrome</chrome_link>, <firefox_link>Firefox</firefox_link>, <edge_link>Microsoft Edge</edge_link> o Safari.",
     "unsupported-browser-internet-explorer": "Feu servir Internet Explorer? <a>Sabeu-ne més.</a>",
     "unsupported-browser-contact-us": "",
-    "cannot-create-new-street-on-phone-title": "Streetmix només funciona amb tauletes i ordinadors.",
+    "cannot-create-new-street-on-phone-title": "Streetsketch només funciona amb tauletes i ordinadors.",
     "cannot-create-new-street-on-phone-description": "Si seguiu un altre enllaç a un carrer determinat, podeu veure'l des del vostre telèfon, però no podreu crear nous carrers.",
     "generic-error-title": "Alguna cosa ha anat malament.",
     "generic-error-description": "Ho sentim, alguna cosa ha anat malament.",
@@ -190,7 +190,7 @@
       "text": "Alguna cosa ha anat malament 😢. Hem enregistrat l'error, però si sabeu què ha passat, si us plau, <a>expliqueu-nos-ho</a>. Això podria ser un error temporal, així que intenteu-ho un cop més."
     },
     "welcome": {
-      "heading": "Benvinguts a Streetmix.",
+      "heading": "Benvinguts a Streetsketch.",
       "new": {
         "intro": "Dissenyeu, remeneu i compartiu el carrer del vostre barri. Afegiu arbres o carrils bici, amples voreres o carrils per al trànsit, aprengueu com les vostres decisions poden impactar la comunitat.",
         "instruction": "Comenceu movent segments.",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Sobre Streetmix",
+      "heading": "Sobre Streetsketch",
       "description": "Dissenya, remescla i comparteix el teu carrer. Afegiu carrils bici, eixampleu voreres o carrils de circulació i obteniu informació sobre com tot això pot afectar la vostra comunitat.",
       "team-heading": "Equip del projecte i mantenidors",
       "partners": "Socis",
       "sponsors": "Patrocinadors",
-      "sponsored-by": "Streetmix esà patrocinat generosament per:",
+      "sponsored-by": "Streetsketch esà patrocinat generosament per:",
       "donate-link": "Ajudeu-nos econòmicament",
       "tos-link": "Condicions de servei",
       "privacy-link": "Política de privacitat",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "",
       "loading": "Carregant...",
       "save-button": "Guarda al teu ordinador",
-      "license": "Aquesta imatge creada per Streetmix es pot reutilitzar a qualsevol lloc, amb qualsevol propòsit, sota la llicència {licenseLink}.",
+      "license": "Aquesta imatge creada per Streetsketch es pot reutilitzar a qualsevol lloc, amb qualsevol propòsit, sota la llicència {licenseLink}.",
       "error-preview": "S'ha produït un error al mostrar la previsualització d'imatge.",
       "error-unavailable": "Desar a la imatge no està disponible en aquest navegador.",
       "error-too-large": "",
@@ -270,10 +270,10 @@
       "geotag-unavailable": "Actualment els serveis de geocodificació no estan disponibles. Podeu veure el mapa, però no podreu canviar la ubicació d’aquest carrer."
     },
     "donate": {
-      "heading": "Streetmix necessita la vostra ajuda!",
-      "lede": "Streetmix és un projecte amb suport comunitari. A diferència d'altres serveis \"gratuïts\" a Internet, no mostrem anuncis ni injectem rastrejadors que abusin de la vostra privadesa. En lloc d'això, depenem del vostre suport per mantenir Streetmix en funcionament.",
-      "text": "Si vos plau, considereu donar-nos suport amb una contribució puntual o periòdica. La vostra donació pagarà pels nostres servidors i infraestructures en el núvol, donant suport a altres organitzacions sense ànim de lucre, grups de defensa i estudiants que treballin per millorar els nostres carrers. S’invertiran ingressos addicionals en el desenvolupament de noves funcions. Les nostres despeses són totalment transparents, de manera que podeu veure exactament com utilitzen les vostres contribucions l’equip de Streetmix.",
-      "button": "Feu una donació a Streetmix",
+      "heading": "Streetsketch necessita la vostra ajuda!",
+      "lede": "Streetsketch és un projecte amb suport comunitari. A diferència d'altres serveis \"gratuïts\" a Internet, no mostrem anuncis ni injectem rastrejadors que abusin de la vostra privadesa. En lloc d'això, depenem del vostre suport per mantenir Streetsketch en funcionament.",
+      "text": "Si vos plau, considereu donar-nos suport amb una contribució puntual o periòdica. La vostra donació pagarà pels nostres servidors i infraestructures en el núvol, donant suport a altres organitzacions sense ànim de lucre, grups de defensa i estudiants que treballin per millorar els nostres carrers. S’invertiran ingressos addicionals en el desenvolupament de noves funcions. Les nostres despeses són totalment transparents, de manera que podeu veure exactament com utilitzen les vostres contribucions l’equip de Streetsketch.",
+      "button": "Feu una donació a Streetsketch",
       "cancel": "No gràcies"
     },
     "sign-in": {
@@ -298,7 +298,7 @@
       "resend-email": "Re-envia email"
     },
     "whatsnew": {
-      "heading": "Novetats a Streetmix",
+      "heading": "Novetats a Streetsketch",
       "english-only": ""
     },
     "newsletter": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Tots el trams hans estat eliminats.",
     "no-undo": "Res a desfer.",
     "no-redo": "Res a des-desfer.",
-    "no-save": "No cal desar a mà; Streetmix desa automàticament el vostre carrer.",
+    "no-save": "No cal desar a mà; Streetsketch desa automàticament el vostre carrer.",
     "remixing": "Ara s’edita un duplicat acabat de fer del carrer original. El duplicat s'ha col·locat a la vostra galeria.",
     "remixing-sign-in": "Ara s’edita un duplicat acabat de fer del carrer original. Inicieu la sessió per iniciar la vostra pròpia galeria de carrers.",
     "reloaded": "El vostre carrer s'ha tornat a carregar des del servidor, tal com es va modificar anteriorment."
@@ -495,7 +495,7 @@
     "about-header": "Volem entendre com se sent la gent sobre els carrers",
     "about-article": {
       "paragraph-1": "Molts carrers estan dissenyats per enginyers de camins, però creiem que el disseny hauria d’incloure el punt de vista de tothom. En col·laboració amb la <a>Nova Aliança per a la Mobilitat Urbana</a> (NUMO), estem realitzant aquesta enquesta amb una pregunta per fer-ho.",
-      "paragraph-2": "Analitzarem les vostres respostes perquè puguem deduir quines característiques del carrer induiran quins sentiments. En el futur, pensem tornar a incorporar aquestes estadístiques a les recomanacions de disseny per als usuaris de Streetmix.",
+      "paragraph-2": "Analitzarem les vostres respostes perquè puguem deduir quines característiques del carrer induiran quins sentiments. En el futur, pensem tornar a incorporar aquestes estadístiques a les recomanacions de disseny per als usuaris de Streetsketch.",
       "paragraph-3": "Només podeu votar una vegada per carrer, però podeu animar els altres a votar compartint els vostres carrers o un carrer a l’atzar amb l’enllaç  <a>https://streetmix.net/survey/</a>."
     },
     "done": {

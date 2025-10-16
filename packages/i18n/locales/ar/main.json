@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "مساعدة",
-      "about": "حول Streetmix…",
+      "about": "حول Streetsketch…",
       "whatsnew": "",
       "contact": "تواصل",
       "community": "مجتمع",
@@ -39,26 +39,26 @@
       "save": "حفظ كصورة…",
       "save-byline": "لإدراجها في تقرير أو مدونة وما إلى ذلك.",
       "messages": {
-        "my-street": "تحقق من شارعي، {streetName}، في Streetmix!",
-        "my-street-unnamed": "تحقق من شارعي في Streetmix!",
-        "someone-elses-street": "تحقق من شارعي، {streetName} بواسطة {streetCreator} في Streetmix!",
-        "someone-elses-street-unnamed": "تحقق من هذا الشارع، {streetCreator}، في Streetmix!",
-        "anonymous-creator-street": "تحقق من {streetName} في Streetmix!",
-        "anonymous-creator-street-unnamed": "تحقق من هذا الشارع في Streetmix!"
+        "my-street": "تحقق من شارعي، {streetName}، في Streetsketch!",
+        "my-street-unnamed": "تحقق من شارعي في Streetsketch!",
+        "someone-elses-street": "تحقق من شارعي، {streetName} بواسطة {streetCreator} في Streetsketch!",
+        "someone-elses-street-unnamed": "تحقق من هذا الشارع، {streetCreator}، في Streetsketch!",
+        "anonymous-creator-street": "تحقق من {streetName} في Streetsketch!",
+        "anonymous-creator-street-unnamed": "تحقق من هذا الشارع في Streetsketch!"
       }
     },
     "contact": {
       "forums": "مناقشة المجريات",
-      "email": "أرسل بريد إلكتروني إلى فريق Streetmix",
+      "email": "أرسل بريد إلكتروني إلى فريق Streetsketch",
       "github": "إظهار شيفرة المصدر على GitHub",
-      "blog": "زيارة مدونة Streetmix",
+      "blog": "زيارة مدونة Streetsketch",
       "discord": "",
       "slack": "الانضمام إلى غرفة الدردشة الهادئة",
       "newsletter": ""
     },
     "feedback": {
       "prompt": "أرسل لنا رسالة:",
-      "message-placeholder": "ما رأيك في Streetmix؟",
+      "message-placeholder": "ما رأيك في Streetsketch؟",
       "email-placeholder": "بريدك الإلكتروني (اختياري)",
       "send": "أرسل رسالة",
       "confirm": "حصلنا عليها. شكراً!",
@@ -119,10 +119,10 @@
     "remixing": "إعادة توزيع…",
     "having-trouble": "أنت في مشكلة…",
     "no-street": "لم يتم تحديد شارع.",
-    "trouble-loading": "نواجه مشكلة في تحميل Streetmix.",
+    "trouble-loading": "نواجه مشكلة في تحميل Streetsketch.",
     "slow-connection-1": "غير قادر على الاتصال بالإنترنت في هذه الأثناء.",
     "slow-connection-2": "قد ترغب في إعادة تحميل الصفحة والمحاولة من جديد. نأسف، يُرجى ملاحظة أنك قد تفقد التغيير الأخير الذي أجريته على الشارع!",
-    "no-connection": "يواجه Streetmix مشكلة في الاتصال بالإنترنت.",
+    "no-connection": "يواجه Streetsketch مشكلة في الاتصال بالإنترنت.",
     "more-info": "اعرف المزيد"
   },
   "error": {
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "حدث خلل أثناء المصادقة.",
     "please-try-again": "يُرجى المحاولة لاحقاً، أو إبلاغنا من خلال البريد <email_link>الإلكتروني</email_link> أو <tweet_link>تويتر</tweet_link>.",
     "please-try-again-contact-us": "",
-    "unsupported-browser-title": "Streetmix لا يعمل على المتصفح الخاص بك.",
+    "unsupported-browser-title": "Streetsketch لا يعمل على المتصفح الخاص بك.",
     "unsupported-browser-description": "آسف بشأن ذلك. ربما ترغب في تجربة متصفح <chrome_link>كروم</chrome_link>، <firefox_link>فايرفوكس</firefox_link>، <edge_link>ميكروسوفت ايدج</edge_link>، أو سافاري.",
     "unsupported-browser-internet-explorer": "هل تستخدم متصفح انترنت اكسبلورر الآن؟ <a>يمكنك العثور على المزيد من النتائج.</a>",
     "unsupported-browser-contact-us": "",
-    "cannot-create-new-street-on-phone-title": "لا يعمل Streetmix إلا على الأجهزة اللوحية وأجهزة الكمبيوتر.",
+    "cannot-create-new-street-on-phone-title": "لا يعمل Streetsketch إلا على الأجهزة اللوحية وأجهزة الكمبيوتر.",
     "cannot-create-new-street-on-phone-description": "إذا كنت تتبع رابطًا آخر إلى شارع معين، فيمكنك عرضه على هاتفك -ولكن لا يمكنك بعد إنشاء شوارع جديدة.",
     "generic-error-title": "هناك خطأ ما.",
     "generic-error-description": "نعتذر – هناك خطأ ما.",
@@ -190,7 +190,7 @@
       "text": "حدث شيء غير متوقع 😢. لقد سجلنا الخطأ، ولكن إذا كنت تتذكر ما حدث هنا، <a>يُرجى إخبارنا به</a>. قد تكون مشكلة مؤقتة، حاول من جديد."
     },
     "welcome": {
-      "heading": "مرحباً في Streetmix.",
+      "heading": "مرحباً في Streetsketch.",
       "new": {
         "intro": "قم بتصميم وإعادة توزيع شارع الحي ومشاركته. أضف أشجار أو مسارات الدراجات، قم بتوسيع الأرصفة أو الممرات المرورية، تعلم كيف يمكن لقراراتك التأثير في مجتمعك.",
         "instruction": "",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "حول Streetmix.",
+      "heading": "حول Streetsketch.",
       "description": "قم بتصميم وإعادة توزيع الشارع ومشاركته. أضف أشجار أو مسارات الدراجات، قم بتوسيع الأرصفة أو الممرات المرورية، تعلم كيف يمكن لقراراتك التأثير في مجتمعك.",
       "team-heading": "فريق المشروع والمشرفين",
       "partners": "",
       "sponsors": "",
-      "sponsored-by": "مشروع Streetmix برعاية سخيّة من:",
+      "sponsored-by": "مشروع Streetsketch برعاية سخيّة من:",
       "donate-link": "إدعمنا مالياً",
       "tos-link": "",
       "privacy-link": "",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "",
       "loading": "تحميل…",
       "save-button": "حفظ في جهاز الكمبيوتر الخاص بك…",
-      "license": "قد يتم إعادة استخدام هذه الصورة التي تم إنشائها باستخدام Streetmix في أي مكان ولأي غرص بموجب {licenseLink}.",
+      "license": "قد يتم إعادة استخدام هذه الصورة التي تم إنشائها باستخدام Streetsketch في أي مكان ولأي غرص بموجب {licenseLink}.",
       "error-preview": "فشل عرض صورة المعاينة.",
       "error-unavailable": "تعذر الحفظ على الصورة في هذا المتصفح.",
       "error-too-large": "",
@@ -270,10 +270,10 @@
       "geotag-unavailable": ""
     },
     "donate": {
-      "heading": "يحتاج Streetmix إلى مساعدتكم!",
-      "lede": "يعتبر مشروع Streetmix مشروع قائم على جهود المجتمعات المحلية. بخلاف الخدمات \"المجانية\" الأخرى المتاحة عبر الإنترنت، ولا نقوم بعرض الإعلانات أو أدوات التعقب التي تنتهك خصوصيتك. بل بدلاً من ذلك، نعتمد على دعمك للرقي بمشروع Streetmix وتشغيله.",
-      "text": "يرجى النظر في دعمنا بمساهمة متكررة أو لمرة واحدة. سيتم دفع تبرعاتك إلى خدماتنا والبنية التحتية ولدعم المؤسسات الغير ربحية الأخرى والمجموعات المناصرة والطلاب الذين يعملون على تحسين شوارعنا. سيتم استثمار الأرباح الزائدة في تطوير المزيد من القطاعات الجديدة. نفقاتنا واضحة بالكامل، بحيث يمكنك أن ترى بالضبط كيفية استخدام مساهماتك من قبل فريق Streetmix.",
-      "button": "تبرع إلى Streetmix",
+      "heading": "يحتاج Streetsketch إلى مساعدتكم!",
+      "lede": "يعتبر مشروع Streetsketch مشروع قائم على جهود المجتمعات المحلية. بخلاف الخدمات \"المجانية\" الأخرى المتاحة عبر الإنترنت، ولا نقوم بعرض الإعلانات أو أدوات التعقب التي تنتهك خصوصيتك. بل بدلاً من ذلك، نعتمد على دعمك للرقي بمشروع Streetsketch وتشغيله.",
+      "text": "يرجى النظر في دعمنا بمساهمة متكررة أو لمرة واحدة. سيتم دفع تبرعاتك إلى خدماتنا والبنية التحتية ولدعم المؤسسات الغير ربحية الأخرى والمجموعات المناصرة والطلاب الذين يعملون على تحسين شوارعنا. سيتم استثمار الأرباح الزائدة في تطوير المزيد من القطاعات الجديدة. نفقاتنا واضحة بالكامل، بحيث يمكنك أن ترى بالضبط كيفية استخدام مساهماتك من قبل فريق Streetsketch.",
+      "button": "تبرع إلى Streetsketch",
       "cancel": "لا، شكراً"
     },
     "sign-in": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "تم إزالة جميع أجزاء الشارع.",
     "no-undo": "لا شيء للتراجع عنه.",
     "no-redo": "لا شيء لإعادة القيام به من جديد.",
-    "no-save": "لا حاجة لحفظه يدوياً؛ يقوم Streetmix بحفظ شارعك تلقائاً!",
+    "no-save": "لا حاجة لحفظه يدوياً؛ يقوم Streetsketch بحفظ شارعك تلقائاً!",
     "remixing": "يمكنك الآن تعديل نسخة طبق الأصل من الشارع الأصلي. تم وضع نسخة مكررة في معرض الصور الخاص بك.",
     "remixing-sign-in": "يمكنك الآن تعديل نسخة طبق الأصل من الشارع الأصلي. تسجيل الدخول لبدء معرض صور الشوارع الخاصة بك.",
     "reloaded": "تم إعادة تحميل الشارع الخاص بك من الخادم لأنه تم تعديله في مكانٍ آخر."

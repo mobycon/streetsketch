@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Ayuda",
-      "about": "Sobre Streetmix…",
+      "about": "Sobre Streetsketch…",
       "whatsnew": "",
       "contact": "Contacto",
       "community": "Comunidad",
@@ -39,26 +39,26 @@
       "save": "Guardar como imagen…",
       "save-byline": "Para incluir en un reporte, blog, etc",
       "messages": {
-        "my-street": "Dale un vistazo a mi calle, {streetName}, en Streetmix!",
-        "my-street-unnamed": "Dale un vistazo a mi calle en Streetmix!",
-        "someone-elses-street": "Dale un vistazo a {streetName}, de {streetCreator}en Streetmix!",
-        "someone-elses-street-unnamed": "Dale un vistazo a esta calle de {streetCreator} en Streetmix!",
-        "anonymous-creator-street": "Dale un vistazo a {streetName} en Streetmix!",
-        "anonymous-creator-street-unnamed": "Dale un vistazo a esta calle en Streetmix!"
+        "my-street": "Dale un vistazo a mi calle, {streetName}, en Streetsketch!",
+        "my-street-unnamed": "Dale un vistazo a mi calle en Streetsketch!",
+        "someone-elses-street": "Dale un vistazo a {streetName}, de {streetCreator}en Streetsketch!",
+        "someone-elses-street-unnamed": "Dale un vistazo a esta calle de {streetCreator} en Streetsketch!",
+        "anonymous-creator-street": "Dale un vistazo a {streetName} en Streetsketch!",
+        "anonymous-creator-street-unnamed": "Dale un vistazo a esta calle en Streetsketch!"
       }
     },
     "contact": {
       "forums": "Discutir en los foros",
-      "email": "Envía un correo electrónico al equipo de Streetmix",
+      "email": "Envía un correo electrónico al equipo de Streetsketch",
       "github": "Ver código fuente en GitHub",
-      "blog": "Visita el blog de Streetmix",
+      "blog": "Visita el blog de Streetsketch",
       "discord": "Unirse al Discord Chat",
       "slack": "Participa en Slack chat",
       "newsletter": "Suscríbete a nuestra newsletter"
     },
     "feedback": {
       "prompt": "Envianos un mensaje:",
-      "message-placeholder": "¿Que piensas de Streetmix?",
+      "message-placeholder": "¿Que piensas de Streetsketch?",
       "email-placeholder": "Tu correo electronico (opcional)",
       "send": "Enviar mensaje",
       "confirm": "Lo hemos recibido, gracias!",
@@ -119,10 +119,10 @@
     "remixing": "Remezclando...",
     "having-trouble": "Teniendo problemas…",
     "no-street": "Ninguna calle seleccionada.",
-    "trouble-loading": "Tenemos problemas cargando Streetmix.",
-    "slow-connection-1": "Streetmix ya ha estado tratando de conectarse a internet por un rato",
+    "trouble-loading": "Tenemos problemas cargando Streetsketch.",
+    "slow-connection-1": "Streetsketch ya ha estado tratando de conectarse a internet por un rato",
     "slow-connection-2": "Probablemente necesites recargar la pagina e intentar de nuevo. Toma en cuenta que puede perder los ultimos cambios que le hiciste a la calle. ¡Disculpas!",
-    "no-connection": "Streetmix esta experimentando dificultades para conectarse a internet",
+    "no-connection": "Streetsketch esta experimentando dificultades para conectarse a internet",
     "more-info": "Más información"
   },
   "error": {
@@ -190,7 +190,7 @@
       "text": ""
     },
     "welcome": {
-      "heading": "Bienvenido a Streetmix.",
+      "heading": "Bienvenido a Streetsketch.",
       "new": {
         "intro": "Diseña, mezcla y comparte la calle de tu vecindad. Agregar arboles o vías para bicicletas, aceras más anchas o carriles de circulación, aprende cómo impactan a tu comunidad tus decisiones.",
         "instruction": "",
@@ -213,7 +213,7 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Sobre Streetmix",
+      "heading": "Sobre Streetsketch",
       "description": "Diseña, mezcla y comparte tu calle. Agrega vias para bicicletas, ensancha aceras o carriles de circulacion, analiza como impactan todo esto a tu comunidad",
       "team-heading": "",
       "partners": "",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "",
       "loading": "Cargando…",
       "save-button": "Grabar en tu computador…",
-      "license": "Esta imagen creada con Streetmix puede ser reusada en cualquier sitio, para cualquier propósito, bajo la licencia {licenseLink}.",
+      "license": "Esta imagen creada con Streetsketch puede ser reusada en cualquier sitio, para cualquier propósito, bajo la licencia {licenseLink}.",
       "error-preview": "",
       "error-unavailable": "",
       "error-too-large": "",

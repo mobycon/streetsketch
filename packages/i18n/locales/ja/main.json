@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "ヘルプ",
-      "about": "Streetmixについて",
+      "about": "Streetsketchについて",
       "whatsnew": "",
       "contact": "コンタクト",
       "community": "コミュニティ",
@@ -49,16 +49,16 @@
     },
     "contact": {
       "forums": "フォーラムで相談",
-      "email": "Streetmixチームにメール",
+      "email": "Streetsketchチームにメール",
       "github": "Githubでコードを確認",
-      "blog": "Streetmixブログを表示",
+      "blog": "Streetsketchブログを表示",
       "discord": "",
       "slack": "Slackチャットに参加",
       "newsletter": ""
     },
     "feedback": {
       "prompt": "メッセージを送付:",
-      "message-placeholder": "Streetmixへのご意見",
+      "message-placeholder": "Streetsketchへのご意見",
       "email-placeholder": "あなたのメールアドレス (任意)",
       "send": "送付",
       "confirm": "ご意見ありがとうございます！",
@@ -119,10 +119,10 @@
     "remixing": "リミックス中…",
     "having-trouble": "トラブルが発生しています…",
     "no-street": "ストリートが選択されていません。",
-    "trouble-loading": "Streetmixのロードに失敗しました。",
-    "slow-connection-1": "現在、Streetmixとインターネットの疎通に問題が発生しています。",
+    "trouble-loading": "Streetsketchのロードに失敗しました。",
+    "slow-connection-1": "現在、Streetsketchとインターネットの疎通に問題が発生しています。",
     "slow-connection-2": "ページを再度読み込んでください。最後に行った変更点は破棄されます。申し訳ありません。",
-    "no-connection": "Streetmixからインターネットへの接続に失敗しました。",
+    "no-connection": "Streetsketchからインターネットへの接続に失敗しました。",
     "more-info": "詳細情報"
   },
   "error": {
@@ -157,11 +157,11 @@
     "auth-api-problem-description": "認証に失敗しました",
     "please-try-again": "時間をおいて再度試すか、<email_link>メール</email_link> や <tweet_link>Twitter</tweet_link>でご連絡ください。",
     "please-try-again-contact-us": "",
-    "unsupported-browser-title": "Streetmixが対応していないブラウザです。",
+    "unsupported-browser-title": "Streetsketchが対応していないブラウザです。",
     "unsupported-browser-description": "すみません。<chrome_link>Chrome</chrome_link>、 <firefox_link>Firefox</firefox_link>、 <edge_link>Microsoft Edge</edge_link>、あるいはSafariのいづれかで閲覧してください。",
     "unsupported-browser-internet-explorer": "Internet Explorerをお使いですか？  <a>他のブラウザはこちらです。</a>",
     "unsupported-browser-contact-us": "",
-    "cannot-create-new-street-on-phone-title": "StreetmixはタブレットかPCでのみ動作します。",
+    "cannot-create-new-street-on-phone-title": "StreetsketchはタブレットかPCでのみ動作します。",
     "cannot-create-new-street-on-phone-description": "リンクをたどってきた場合、ストリートは閲覧だけが可能です。新規のストリート作成はできません。",
     "generic-error-title": "どこかで処理に失敗しています。",
     "generic-error-description": "すみません、どこかで処理に失敗したようです。",
@@ -190,7 +190,7 @@
       "text": "予期しないエラーが発生しました 😢。 発生したエラーはすでに記録されていますが、<a>もし可能であれば 発生した状況を詳しくお知らせください</a>。一時的な問題である可能性もありますので、再度試してみて発生するかどうかも試していただけると助かります。"
     },
     "welcome": {
-      "heading": "Streetmixへようこそ。",
+      "heading": "Streetsketchへようこそ。",
       "new": {
         "intro": "あなたの身近な道路をデザインし、リミックスし、シェアしましょう。街路樹や自転車レーン、歩道や車道を追加してみて、あなたのアイデアで地域コミュニティがどう変わるのかを試してみましょう。",
         "instruction": "",
@@ -213,12 +213,12 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Streetmixについて",
+      "heading": "Streetsketchについて",
       "description": "あなたの身近な道路をデザインし、リミックスし、シェアしましょう。街路樹や自転車レーン、歩道や車道を追加してみて、あなたのアイデアで地域コミュニティがどう変わるのかを試してみましょう。",
       "team-heading": "プロジェクトチームとメンテナ",
       "partners": "",
       "sponsors": "",
-      "sponsored-by": "Streetmixスポンサー:",
+      "sponsored-by": "Streetsketchスポンサー:",
       "donate-link": "財務支援",
       "tos-link": "",
       "privacy-link": "",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "",
       "loading": "ロード中…",
       "save-button": "コンピュータに保存中…",
-      "license": "Streetmixで作成した画像は {licenseLink} のもとで自由にお使いいただけます。",
+      "license": "Streetsketchで作成した画像は {licenseLink} のもとで自由にお使いいただけます。",
       "error-preview": "プレビュー画像の表示に失敗しました。",
       "error-unavailable": "ブラウザが画像の保存に対応していません。",
       "error-too-large": "",
@@ -270,10 +270,10 @@
       "geotag-unavailable": ""
     },
     "donate": {
-      "heading": "Streetmixにお力添えください！",
-      "lede": "Streetmixはコミュニティ支援のプロジェクトです。インターネット上のその他 “無料“ のサービスと違って、公告を表示せず、プライバシーを侵害する追跡プログラムの埋め込みも行いません。そのかわり、Streetmixを続けるためにはみなさまのサポートが必要です。",
-      "text": "いまだけでも、あるいはしばらくの期間、貢献を行うことをご検討ください。いただいた募金は私たちのサーバとクラウドインフラ料金、他の非営利団体のサポート、広報活動、そしてストリートの介然を行う学生たちの活動資金として使われます。其上で、余剰資金を使い、新規機能の開発を実施します。私たちの支出情報は完全に公開されており、Streetmixチームがどのように資金を運用しているかを知ることができます。",
-      "button": "Streetmixに募金する",
+      "heading": "Streetsketchにお力添えください！",
+      "lede": "Streetsketchはコミュニティ支援のプロジェクトです。インターネット上のその他 “無料“ のサービスと違って、公告を表示せず、プライバシーを侵害する追跡プログラムの埋め込みも行いません。そのかわり、Streetsketchを続けるためにはみなさまのサポートが必要です。",
+      "text": "いまだけでも、あるいはしばらくの期間、貢献を行うことをご検討ください。いただいた募金は私たちのサーバとクラウドインフラ料金、他の非営利団体のサポート、広報活動、そしてストリートの介然を行う学生たちの活動資金として使われます。其上で、余剰資金を使い、新規機能の開発を実施します。私たちの支出情報は完全に公開されており、Streetsketchチームがどのように資金を運用しているかを知ることができます。",
+      "button": "Streetsketchに募金する",
       "cancel": "次回以降に考える"
     },
     "sign-in": {

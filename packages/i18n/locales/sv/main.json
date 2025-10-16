@@ -2,7 +2,7 @@
   "menu": {
     "item": {
       "help": "Hjälp",
-      "about": "Om Streetmix…",
+      "about": "Om Streetsketch…",
       "whatsnew": "",
       "contact": "Kontakt",
       "community": "Gemenskap",
@@ -39,26 +39,26 @@
       "save": "Spara som bild…",
       "save-byline": "För att inkludera i en rapport, blogg etc.",
       "messages": {
-        "my-street": "Kolla in min gata, {streetName}, på Streetmix!",
-        "my-street-unnamed": "Kolla in min gata på Streetmix!",
-        "someone-elses-street": "Kolla in {streetName} av {streetCreator} på Streetmix!",
-        "someone-elses-street-unnamed": "Kolla in den här gatan av {streetCreator} på Streetmix!",
-        "anonymous-creator-street": "Kolla in {streetName} på Streetmix!",
-        "anonymous-creator-street-unnamed": "Kolla in den här gatan på Streetmix!"
+        "my-street": "Kolla in min gata, {streetName}, på Streetsketch!",
+        "my-street-unnamed": "Kolla in min gata på Streetsketch!",
+        "someone-elses-street": "Kolla in {streetName} av {streetCreator} på Streetsketch!",
+        "someone-elses-street-unnamed": "Kolla in den här gatan av {streetCreator} på Streetsketch!",
+        "anonymous-creator-street": "Kolla in {streetName} på Streetsketch!",
+        "anonymous-creator-street-unnamed": "Kolla in den här gatan på Streetsketch!"
       }
     },
     "contact": {
       "forums": "Diskutera i forumen",
-      "email": "Skicka e-post till Streetmix-teamet",
+      "email": "Skicka e-post till Streetsketch-teamet",
       "github": "Visa källkod på GitHub",
-      "blog": "Besök Streetmix-bloggen",
+      "blog": "Besök Streetsketch-bloggen",
       "discord": "Gå med i Discord-chatten",
       "slack": "Gå med i Slack-chatten",
       "newsletter": "Prenumerera på vårt nyhetsbrev"
     },
     "feedback": {
       "prompt": "Skicka ett meddelande till oss:",
-      "message-placeholder": "Vad tycker du om Streetmix?",
+      "message-placeholder": "Vad tycker du om Streetsketch?",
       "email-placeholder": "Din e-postadress (valfritt)",
       "send": "Skicka meddelande",
       "confirm": "Vi fattar. Tack!",
@@ -119,10 +119,10 @@
     "remixing": "Ändrar…",
     "having-trouble": "Har problem…",
     "no-street": "Ingen gata vald.",
-    "trouble-loading": "Vi har problem att ladda Streetmix.",
-    "slow-connection-1": "Streetmix har inte kunnat kontakta internet på ett tag nu.",
+    "trouble-loading": "Vi har problem att ladda Streetsketch.",
+    "slow-connection-1": "Streetsketch har inte kunnat kontakta internet på ett tag nu.",
     "slow-connection-2": "Du kan prova att ladda om sidan och försöka igen. Vänligen notera att du kan förlora dina senaste ändringar. Ursäkta!",
-    "no-connection": "Streetmix har problem med uppkopplingen till internet.",
+    "no-connection": "Streetsketch har problem med uppkopplingen till internet.",
     "more-info": "Mer information"
   },
   "error": {
@@ -157,7 +157,7 @@
     "auth-api-problem-description": "",
     "please-try-again": "",
     "please-try-again-contact-us": "",
-    "unsupported-browser-title": "Streetmix fungerar inte på din webbläsare.",
+    "unsupported-browser-title": "Streetsketch fungerar inte på din webbläsare.",
     "unsupported-browser-description": "",
     "unsupported-browser-internet-explorer": "",
     "unsupported-browser-contact-us": "",
@@ -190,7 +190,7 @@
       "text": ""
     },
     "welcome": {
-      "heading": "Välkommen till Streetmix.",
+      "heading": "Välkommen till Streetsketch.",
       "new": {
         "intro": "Designa, ändra och dela din gata. Lägg till träd eller cykelbanor. Bredda gångbanor eller körbanor. Lär hur dina beslut kan påverka ditt närområde.",
         "instruction": "",
@@ -213,7 +213,7 @@
       "dismiss": ""
     },
     "about": {
-      "heading": "Om Streetmix.",
+      "heading": "Om Streetsketch.",
       "description": "Designa, ändra och dela din gata. Lägg till träd eller cykelbanor. Bredda gångbanor eller körbanor. Lär hur allt detta kan påverka ditt närområde.",
       "team-heading": "",
       "partners": "",
@@ -250,7 +250,7 @@
       "option-custom-scale-description": "",
       "loading": "Laddar…",
       "save-button": "Sparar till din dator…",
-      "license": "Denna av Streetmix skapade bild kan användas var som helst, oavsett syfte, i enlighet med {licenseLink}.",
+      "license": "Denna av Streetsketch skapade bild kan användas var som helst, oavsett syfte, i enlighet med {licenseLink}.",
       "error-preview": "",
       "error-unavailable": "",
       "error-too-large": "",
@@ -270,10 +270,10 @@
       "geotag-unavailable": ""
     },
     "donate": {
-      "heading": "Streetmix behöver din hjälp!",
+      "heading": "Streetsketch behöver din hjälp!",
       "lede": "",
       "text": "",
-      "button": "Donera till Streetmix",
+      "button": "Donera till Streetsketch",
       "cancel": "Nej tack"
     },
     "sign-in": {
@@ -298,7 +298,7 @@
       "resend-email": ""
     },
     "whatsnew": {
-      "heading": "Vad är nytt i Streetmix?",
+      "heading": "Vad är nytt i Streetsketch?",
       "english-only": ""
     },
     "newsletter": {
@@ -330,7 +330,7 @@
     "all-segments-deleted": "Alla segment har tagits bort.",
     "no-undo": "Inget att ångra.",
     "no-redo": "Inget att ångra.",
-    "no-save": "Du slipper spara på egen hand - Streetmix sparar åt dig!",
+    "no-save": "Du slipper spara på egen hand - Streetsketch sparar åt dig!",
     "remixing": "Nu editeras en nyskapad kopia av originalgatan. Kopian har sparats i ditt bibliotek. ",
     "remixing-sign-in": "",
     "reloaded": "Din gata har hämtats från servern då den modifierats på annan plats."
@@ -459,7 +459,7 @@
     "locked": {
       "label": "",
       "soon": "Kommer snart!",
-      "sub": "Uppgradera till Streetmix+ för att använda!",
+      "sub": "Uppgradera till Streetsketch+ för att använda!",
       "sub-edit": "",
       "user": "Logga in för att använda!",
       "action": ""

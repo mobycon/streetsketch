@@ -58,7 +58,7 @@
     },
     "feedback": {
       "prompt": "Send us a message:",
-      "message-placeholder": "What do you think of Streetmix?",
+      "message-placeholder": "What do you think of Streetsketch?",
       "email-placeholder": "Your email (optional)",
       "send": "Send message",
       "confirm": "We got it. Thanks!",
