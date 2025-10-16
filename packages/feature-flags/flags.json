@@ -99,7 +99,7 @@
   },
   "SAVE_AS_IMAGE_CUSTOM_DPI": {
     "label": "Save images at custom scale",
-    "defaultValue": false
+    "defaultValue": true
   },
   "ALWAYS_DISPLAY_WHATS_NEW": {
     "label": "Always display the What’s New dialog",
