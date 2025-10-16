@@ -197,9 +197,8 @@ public-transit-asphalt:
     color: "#292a29"
     title: Asphalt
   colored:
-    id: asphalt
-    color: "#9b1f22"
-    title: Red lane
+    id: bricks
+    title: Bricks
   grass:
     id: grass
     title: Grass
@@ -209,9 +208,8 @@ bus-asphalt:
     color: "#292a29"
     title: Asphalt
   colored:
-    id: asphalt
-    color: "#9b1f22"
-    title: Red lane
+    id: bricks
+    title: Bricks
   shared:
     id: sharrow
     title: Shared bus/bike lane
@@ -233,9 +231,8 @@ brt-asphalt:
     color: "#292a29"
     title: Asphalt
   red:
-    id: asphalt
-    color: "#9b1f22"
-    title: Red lane
+    id: bricks
+    title: Bricks
 brt-station-orientation:
   left:
     id: orientation-left
