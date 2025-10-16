@@ -21,7 +21,7 @@
           },
           "green": {
             "graphics": {
-              "repeat": "ground--asphalt-green"
+              "repeat": "ground--bricks"
             }
           },
           "gray": {
