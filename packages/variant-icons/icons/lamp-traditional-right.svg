@@ -1,9 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="48px" height="48px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g>
-        <g id="lamp-traditional-right">
-            <path d="M9.739,5.38L11.036,9.298L11.381,9.532L11.036,9.523L10.775,48L15.247,48L15.044,12.278L24.029,12.11L23.833,13.809L23.411,13.798L16.548,18.353L21.255,34.103L29.072,34.177L34.323,18.317L27.404,13.909L26.847,13.894L26.223,10.085L15.035,10.625L15.029,9.635L14.798,9.628L15.029,9.409L16.398,5.31L13.063,1.945ZM19.957,19.64L30.961,19.64L27.648,31.34L22.846,31.34Z" style="fill:black;fill-rule:nonzero;"/>
-        </g>
-    </g>
-</svg>
+<?xml version="1.0" encoding="utf-8"?><svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 96 360" style="enable-background:new 0 0 96 360;" xml:space="preserve"><g><g id="lamppost-center" transform="matrix(0.5,0,0,0.5,0,-24)"><g id="post"><g transform="matrix(1,0,0,1,47.5,0)"><path d="M34.9,768h26.2l-3.8-561.5l-18.5-5.3L34.9,768z"/></g><g transform="matrix(1,0,0,1,47.5,0)"><path d="M34.9,768h26.2L36.3,564.6L34.9,768z"/></g><g transform="matrix(1,0,0,1,47.5,0)"><path d="M56.5,350.5L40.7,201.2l16.5,0.4C57.3,201.6,56.5,350.5,56.5,350.5z"/></g></g></g></g><polyline points="48.3,45.8 13,45.8 13,57.8 43.1,76.6 44.1,77.3 48.3,77.3 "/><polyline points="48.3,45.8 83.5,45.8 83.5,57.8 53.4,76.6 52.4,77.3 48.3,77.3 "/><path d="M83.5,45.8v-1.7c0,0-13.4-3.4-35.5-3.4s-35,3.4-35,3.4v1.7"/><polygon points="37.4,73.1 58.7,73.1 52.4,77.3 43.1,77.3 "/><polygon points="83.5,45.8 13,45.8 83.5,57.8 "/></svg>
