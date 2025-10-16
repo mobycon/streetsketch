@@ -32,7 +32,7 @@ export function updatePageTitle (street: StreetState): void {
 export function getPageTitle (street: StreetState): string {
   const streetName =
     street.name ?? formatMessage('street.default-name', 'Unnamed St')
-  return `${streetName} – Streetmix`
+  return `${streetName} – Streetsketch`
 }
 
 /**
@@ -42,5 +42,5 @@ export function getPageTitle (street: StreetState): string {
 export function getPageTitleWithAuthor (street: StreetState): string {
   const streetName =
     street.name ?? formatMessage('street.default-name', 'Unnamed St')
-  return `${streetName} (by ${street.creatorId}) – Streetmix`
+  return `${streetName} (by ${street.creatorId}) – Streetsketch`
 }
