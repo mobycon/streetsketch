@@ -5,11 +5,11 @@
   },
   "GEOTAG": {
     "label": "UI — Geotagging",
-    "defaultValue": true
+    "defaultValue": false
   },
   "ANALYTICS": {
     "label": "UI — Street analytics",
-    "defaultValue": true
+    "defaultValue": false
   },
   "EDIT_STREET_WIDTH": {
     "label": "UI — Edit street width",

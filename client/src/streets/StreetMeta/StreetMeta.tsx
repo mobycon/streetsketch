@@ -18,7 +18,7 @@ function StreetMeta (): React.ReactElement {
       <StreetMetaWidth />
       {enableAnalytics && <StreetMetaAnalytics />}
       <StreetMetaGeotag />
-      <StreetMetaAuthor />
+      {/* <StreetMetaAuthor /> */}
       <StreetMetaDate />
     </div>
   )
