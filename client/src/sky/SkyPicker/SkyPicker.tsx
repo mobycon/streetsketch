@@ -40,22 +40,11 @@ function SkyPicker (): React.ReactElement {
     >
       <IntlProvider locale={locale.locale} messages={locale.segmentInfo}>
         <SkyOptions
-          enabled={isSubscriber}
+          enabled={true}
           selected={selected}
           handleSelect={handleSelect}
         />
       </IntlProvider>
-
-      {!isSubscriber && (
-        <div className="sky-picker-upgrade">
-          <StreetmixPlusPrompt>
-            <FormattedMessage
-              id="plus.prompt.text"
-              defaultMessage="This feature is only available to Streetmix+ users.&lrm;"
-            />
-          </StreetmixPlusPrompt>
-        </div>
-      )}
     </FloatingPanel>
   )
 }
