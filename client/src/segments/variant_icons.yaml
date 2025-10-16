@@ -117,6 +117,10 @@ bench-orientation:
   right:
     id: direction-right
     title: Right
+canal-orientation:
+  center:
+    id: direction-both
+    title: Center
 turn-lane-orientation:
   left:
     id: turn-lane-left

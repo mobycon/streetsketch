@@ -355,6 +355,31 @@
       }
     }
   },
+  "canal": {
+    "name": "Canal",
+    "nameKey": "canal",
+    "owner": "NATURE",
+    "zIndex": 24,
+    "defaultWidth": {
+      "metric": 2.2,
+      "imperial": 8
+    },
+    "variants": ["canal-orientation"],
+    "details": {
+      "center": {
+        "components": {
+          "lanes": [
+            {
+              "id": "asphalt",
+              "variants": {
+                "color": "blue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
   "outdoor-dining": {
     "name": "Outdoor dining",
     "nameKey": "outdoor-dining",

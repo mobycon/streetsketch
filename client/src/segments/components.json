@@ -14,6 +14,11 @@
               "repeat": "ground--asphalt-red"
             }
           },
+          "blue": {
+            "graphics": {
+              "repeat": "ground--asphalt-blue"
+            }
+          },
           "green": {
             "graphics": {
               "repeat": "ground--asphalt-green"
@@ -449,6 +454,21 @@
           "right": {
             "graphics": {
               "right": "furniture--bench-right"
+            }
+          }
+        }
+      }
+    },
+    "canal": {
+      "name": "Canal",
+      "nameKey": "canal",
+      "owner": "NATURE",
+      "zIndex": 24,
+      "variants": {
+        "orientation": {
+          "center": {
+            "graphics": {
+              "center": "ground--asphalt-blue"
             }
           }
         }
