@@ -155,7 +155,6 @@ function MenuBar ({ onMenuDropdownClick }: MenuBarProps): React.ReactElement {
             </AccessibleIcon>
           </MenuBarItem>
         )}
-        {!offline && renderUserAvatar(user)}
       </ul>
       <InstanceBadge />
     </nav>
